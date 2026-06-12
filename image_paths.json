@@ -1,0 +1,14 @@
+{
+  "akvarijum-float-25-x-25-x-25": {
+    "path": "1/akvarijum-float-25-x-25-x-25.webp",
+    "sheet": "variable"
+  },
+  "juwel-bioflow-s": {
+    "path": "1/juwel-bioflow-s.webp",
+    "sheet": "simple"
+  },
+  "juwel-bioflow-s-2": {
+    "path": "1/juwel-bioflow-s-2.webp",
+    "sheet": "simple"
+  }
+}
