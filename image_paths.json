@@ -2779,8 +2779,20 @@
     "path": "1/clown-knife-fish.webp",
     "sheet": "simple"
   },
+  "co2-drop-checker-kit": {
+    "path": "3/co2-drop-checker-kit.webp",
+    "sheet": "simple"
+  },
   "co2-elektromagnetni-ventil": {
     "path": "1/co2-elektromagnetni-ventil.webp",
+    "sheet": "simple"
+  },
+  "co2art-inline-atomizer-13-mm": {
+    "path": "3/co2art-inline-atomizer-13-mm.webp",
+    "sheet": "simple"
+  },
+  "co2art-inline-atomizer-17-mm": {
+    "path": "3/co2art-inline-atomizer-17-mm.webp",
     "sheet": "simple"
   },
   "co2art-io-co2-diffuser-acrylic-large": {
@@ -2790,6 +2802,10 @@
   "co2art-io-co2-diffuser-acrylic-small": {
     "path": "1/co2art-io-co2-diffuser-acrylic-small.webp",
     "sheet": "variable"
+  },
+  "co2art-pro-se-dual-stage": {
+    "path": "3/co2art-pro-se-dual-stage.webp",
+    "sheet": "simple"
   },
   "colisa-lalia-var-blood-red": {
     "path": "1/colisa-lalia-var-blood-red.webp",
