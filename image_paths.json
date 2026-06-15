@@ -2107,6 +2107,30 @@
     "path": "3/atman-hf-hf-0600.webp",
     "sheet": "variable"
   },
+  "atman-lg-lgm-lg-450": {
+    "path": "3/atman-lg-lgm-lg-450.webp",
+    "sheet": "variable"
+  },
+  "atman-lg-lgm-lg-450-2": {
+    "path": "3/atman-lg-lgm-lg-450-2.webp",
+    "sheet": "variable"
+  },
+  "atman-lg-lgm-lg-600": {
+    "path": "3/atman-lg-lgm-lg-600.webp",
+    "sheet": "variable"
+  },
+  "atman-lg-lgm-lg-600-2": {
+    "path": "3/atman-lg-lgm-lg-600-2.webp",
+    "sheet": "variable"
+  },
+  "atman-mf-mf-1": {
+    "path": "3/atman-mf-mf-1.webp",
+    "sheet": "variable"
+  },
+  "atman-mf-mf-5": {
+    "path": "3/atman-mf-mf-5.webp",
+    "sheet": "variable"
+  },
   "atman-mp-mp20000": {
     "path": "1/atman-mp-mp20000.webp",
     "sheet": "variable"
@@ -2153,6 +2177,22 @@
   },
   "atman-uv-lampa-9-w": {
     "path": "1/atman-uv-lampa-9-w.webp",
+    "sheet": "variable"
+  },
+  "atman-xr-320-akvarijum-bela-boja": {
+    "path": "3/atman-xr-320-akvarijum-bela-boja.webp",
+    "sheet": "variable"
+  },
+  "atman-xr-320-akvarijum-bela-boja-2": {
+    "path": "3/atman-xr-320-akvarijum-bela-boja-2.webp",
+    "sheet": "variable"
+  },
+  "atman-xr-320-akvarijum-crna-boja": {
+    "path": "3/atman-xr-320-akvarijum-crna-boja.webp",
+    "sheet": "variable"
+  },
+  "atman-xr-320-akvarijum-crna-boja-2": {
+    "path": "3/atman-xr-320-akvarijum-crna-boja-2.webp",
     "sheet": "variable"
   },
   "aulonocara-albino-red": {
@@ -6687,6 +6727,14 @@
     "path": "2/reef-octopus-wave-pump-op-4pm.webp",
     "sheet": "variable"
   },
+  "resun-af-af-2003": {
+    "path": "3/resun-af-af-2003.webp",
+    "sheet": "variable"
+  },
+  "resun-af-af-2020": {
+    "path": "3/resun-af-af-2020.webp",
+    "sheet": "variable"
+  },
   "resun-as-as-101": {
     "path": "2/resun-as-as-101.webp",
     "sheet": "variable"
@@ -6767,6 +6815,14 @@
     "path": "2/resun-ds-36-ista-stakla-59-cm-2.webp",
     "sheet": null
   },
+  "resun-fh-fh-01": {
+    "path": "3/resun-fh-fh-01.webp",
+    "sheet": "variable"
+  },
+  "resun-fh-fh-02": {
+    "path": "3/resun-fh-fh-02.webp",
+    "sheet": "variable"
+  },
   "resun-fn-fn-030": {
     "path": "2/resun-fn-fn-030.webp",
     "sheet": "variable"
@@ -6791,6 +6847,14 @@
     "path": "2/resun-fn-fn-100.webp",
     "sheet": "variable"
   },
+  "resun-gravel-vacuum-cleaner-vc-1": {
+    "path": "3/resun-gravel-vacuum-cleaner-vc-1.webp",
+    "sheet": "variable"
+  },
+  "resun-gravel-vacuum-cleaner-vc-3": {
+    "path": "3/resun-gravel-vacuum-cleaner-vc-3.webp",
+    "sheet": "variable"
+  },
   "resun-gumeni-raspr-iva-30-cm": {
     "path": "2/resun-gumeni-raspr-iva-30-cm.webp",
     "sheet": "variable"
@@ -6805,6 +6869,34 @@
   },
   "resun-gumeni-raspr-iva-90-cm": {
     "path": "2/resun-gumeni-raspr-iva-90-cm.webp",
+    "sheet": "variable"
+  },
+  "resun-lp-lp-100": {
+    "path": "3/resun-lp-lp-100.webp",
+    "sheet": "variable"
+  },
+  "resun-lp-lp-20": {
+    "path": "3/resun-lp-lp-20.webp",
+    "sheet": "variable"
+  },
+  "resun-lp-lp-40": {
+    "path": "3/resun-lp-lp-40.webp",
+    "sheet": "variable"
+  },
+  "resun-lp-lp-60": {
+    "path": "3/resun-lp-lp-60.webp",
+    "sheet": "variable"
+  },
+  "resun-mb-mb-l": {
+    "path": "3/resun-mb-mb-l.webp",
+    "sheet": "variable"
+  },
+  "resun-mb-mb-m": {
+    "path": "3/resun-mb-mb-m.webp",
+    "sheet": "variable"
+  },
+  "resun-mb-mb-s": {
+    "path": "3/resun-mb-mb-s.webp",
     "sheet": "variable"
   },
   "resun-nepovratni-ventil": {
@@ -7065,6 +7157,14 @@
   },
   "seachem-clarity-500-ml": {
     "path": "2/seachem-clarity-500-ml.webp",
+    "sheet": "variable"
+  },
+  "seachem-denitrate-250-ml": {
+    "path": "3/seachem-denitrate-250-ml.webp",
+    "sheet": "variable"
+  },
+  "seachem-denitrate-500-ml": {
+    "path": "3/seachem-denitrate-500-ml.webp",
     "sheet": "variable"
   },
   "seachem-discus-buffer": {
@@ -8291,6 +8391,18 @@
     "path": "3/sobo-led-lampa-na-ka-enje-l-28c-2-8-w.webp",
     "sheet": "simple"
   },
+  "sobo-led-led10000-pf": {
+    "path": "3/sobo-led-led10000-pf.webp",
+    "sheet": "variable"
+  },
+  "sobo-led-led5800-pf": {
+    "path": "3/sobo-led-led5800-pf.webp",
+    "sheet": "variable"
+  },
+  "sobo-led-led7800-pf": {
+    "path": "3/sobo-led-led7800-pf.webp",
+    "sheet": "variable"
+  },
   "sobo-led-na-ka-enje-l-28c-2-8w": {
     "path": "2/sobo-led-na-ka-enje-l-28c-2-8w.webp",
     "sheet": null
@@ -8759,6 +8871,30 @@
     "path": "2/tetra-bactozym-10-tableta.webp",
     "sheet": null
   },
+  "tetra-cichlid-sticks-1000-ml-rinfuz": {
+    "path": "3/tetra-cichlid-sticks-1000-ml-rinfuz.webp",
+    "sheet": "variable"
+  },
+  "tetra-cichlid-sticks-10000-ml": {
+    "path": "3/tetra-cichlid-sticks-10000-ml.webp",
+    "sheet": "variable"
+  },
+  "tetra-discus-100-ml": {
+    "path": "3/tetra-discus-100-ml.webp",
+    "sheet": "variable"
+  },
+  "tetra-discus-1000-ml-rinfuz": {
+    "path": "3/tetra-discus-1000-ml-rinfuz.webp",
+    "sheet": "variable"
+  },
+  "tetra-discus-10000-ml": {
+    "path": "3/tetra-discus-10000-ml.webp",
+    "sheet": "variable"
+  },
+  "tetra-discus-250-ml": {
+    "path": "3/tetra-discus-250-ml.webp",
+    "sheet": "variable"
+  },
   "tetra-easy-crystal-filterpack-250-300": {
     "path": "2/tetra-easy-crystal-filterpack-250-300.webp",
     "sheet": "simple"
@@ -8826,6 +8962,14 @@
   "tetra-min-100-ml": {
     "path": "2/tetra-min-100-ml.webp",
     "sheet": "simple"
+  },
+  "tetra-min-1000-ml-rinfuz": {
+    "path": "3/tetra-min-1000-ml-rinfuz.webp",
+    "sheet": "variable"
+  },
+  "tetra-min-10000-ml": {
+    "path": "3/tetra-min-10000-ml.webp",
+    "sheet": "variable"
   },
   "tetra-min-granule-10-l": {
     "path": "2/tetra-min-granule-10-l.webp",
@@ -8895,6 +9039,14 @@
     "path": "2/tetra-pro-algae-100-ml.webp",
     "sheet": "simple"
   },
+  "tetra-pro-algae-1000-ml-rinfuz": {
+    "path": "3/tetra-pro-algae-1000-ml-rinfuz.webp",
+    "sheet": "variable"
+  },
+  "tetra-pro-algae-10000-ml": {
+    "path": "3/tetra-pro-algae-10000-ml.webp",
+    "sheet": "variable"
+  },
   "tetra-pro-colour-crisps-10-l": {
     "path": "2/tetra-pro-colour-crisps-10-l.webp",
     "sheet": "variable"
@@ -8911,6 +9063,14 @@
     "path": "2/tetra-rubin-100-ml.webp",
     "sheet": "simple"
   },
+  "tetra-rubin-1000-ml-rinfuz": {
+    "path": "3/tetra-rubin-1000-ml-rinfuz.webp",
+    "sheet": "variable"
+  },
+  "tetra-rubin-10000-ml": {
+    "path": "3/tetra-rubin-10000-ml.webp",
+    "sheet": "variable"
+  },
   "tetra-tec-gs45": {
     "path": "2/tetra-tec-gs45.webp",
     "sheet": "simple"
@@ -8918,6 +9078,54 @@
   "tetra-tec-sb45": {
     "path": "2/tetra-tec-sb45.webp",
     "sheet": "simple"
+  },
+  "tetratec-ht-100-w-do-100-l": {
+    "path": "3/tetratec-ht-100-w-do-100-l.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-100-w-do-100-l-2": {
+    "path": "3/tetratec-ht-100-w-do-100-l-2.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-150-w-do-150-l": {
+    "path": "3/tetratec-ht-150-w-do-150-l.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-150-w-do-150-l-2": {
+    "path": "3/tetratec-ht-150-w-do-150-l-2.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-200-w-do-200-l": {
+    "path": "3/tetratec-ht-200-w-do-200-l.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-200-w-do-200-l-2": {
+    "path": "3/tetratec-ht-200-w-do-200-l-2.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-300-w-do-400-l": {
+    "path": "3/tetratec-ht-300-w-do-400-l.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-300-w-do-400-l-2": {
+    "path": "3/tetratec-ht-300-w-do-400-l-2.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-50-w-do-50-l": {
+    "path": "3/tetratec-ht-50-w-do-50-l.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-50-w-do-50-l-2": {
+    "path": "3/tetratec-ht-50-w-do-50-l-2.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-75-w-do-75-l": {
+    "path": "3/tetratec-ht-75-w-do-75-l.webp",
+    "sheet": "variable"
+  },
+  "tetratec-ht-75-w-do-75-l-2": {
+    "path": "3/tetratec-ht-75-w-do-75-l-2.webp",
+    "sheet": "variable"
   },
   "thayeria-boehlkei": {
     "path": "2/thayeria-boehlkei.webp",
