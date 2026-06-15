@@ -1,4 +1,12 @@
 {
+  "Atman-rgt35-akvarijum-beli": {
+    "path": "3/Atman-rgt35-akvarijum-beli.webp",
+    "sheet": "variable"
+  },
+  "Atman-rgt35-akvarijum-crni": {
+    "path": "3/Atman-rgt35-akvarijum-crni.webp",
+    "sheet": "variable"
+  },
   "Atman-xr320-akvarijum-beli": {
     "path": "3/Atman-xr320-akvarijum-beli.webp",
     "sheet": "variable"
@@ -13,6 +21,14 @@
   },
   "Atman-xr320-akvarijum-crni-2": {
     "path": "3/Atman-xr320-akvarijum-crni-2.webp",
+    "sheet": "variable"
+  },
+  "Atman-zgt30-akvarijum-beli": {
+    "path": "3/Atman-zgt30-akvarijum-beli.webp",
+    "sheet": "variable"
+  },
+  "Atman-zgt30-akvarijum-crni": {
+    "path": "3/Atman-zgt30-akvarijum-crni.webp",
     "sheet": "variable"
   },
   "acanthurus-lineatus": {
@@ -739,6 +755,10 @@
     "path": "1/aquaforest-carbon-boost-500-ml.webp",
     "sheet": "variable"
   },
+  "aquaforest-carbon-fresh-1000ml": {
+    "path": "3/aquaforest-carbon-fresh-1000ml.webp",
+    "sheet": "simple"
+  },
   "aquaforest-clear-boost-125-ml": {
     "path": "1/aquaforest-clear-boost-125-ml.webp",
     "sheet": "variable"
@@ -1407,6 +1427,10 @@
     "path": "1/arka-myaqua-multifilter.webp",
     "sheet": "simple"
   },
+  "arka-myaqua-ph-tds-ec-meter": {
+    "path": "3/arka-myaqua-ph-tds-ec-meter.webp",
+    "sheet": "simple"
+  },
   "arka-myaqua-resin-filter": {
     "path": "1/arka-myaqua-resin-filter.webp",
     "sheet": "simple"
@@ -1918,6 +1942,10 @@
   "atman-at-300-at-306": {
     "path": "3/atman-at-300-at-306.webp",
     "sheet": "variable"
+  },
+  "atman-at-a2500": {
+    "path": "3/atman-at-a2500.webp",
+    "sheet": "simple"
   },
   "atman-at-f100-at-f101": {
     "path": "3/atman-at-f100-at-f101.webp",
@@ -4871,6 +4899,10 @@
     "path": "2/juwel-digitalni-termometar.webp",
     "sheet": null
   },
+  "juwel-digitalni-termometar-3-0": {
+    "path": "3/juwel-digitalni-termometar-3-0.webp",
+    "sheet": "simple"
+  },
   "juwel-easy-feed": {
     "path": "2/juwel-easy-feed.webp",
     "sheet": "simple"
@@ -6057,6 +6089,10 @@
   },
   "nubios-pink-pesak-6-8-mm-1-kg": {
     "path": "3/nubios-pink-pesak-6-8-mm-1-kg.webp",
+    "sheet": "simple"
+  },
+  "nubios-plavi-pesak-6-8-mm-1-kg": {
+    "path": "3/nubios-plavi-pesak-6-8-mm-1-kg.webp",
     "sheet": "simple"
   },
   "nubios-sne-no-beli-pesak-1-2-mm-1-kg": {
@@ -8777,6 +8813,14 @@
   },
   "sulawesi-rabbit-snail": {
     "path": "2/sulawesi-rabbit-snail.webp",
+    "sheet": "simple"
+  },
+  "sun-er-crni-sobo-45-x-45-x-5-cm": {
+    "path": "3/sun-er-crni-sobo-45-x-45-x-5-cm.webp",
+    "sheet": "simple"
+  },
+  "sun-er-crni-sobo-60-x-45-x-5-cm": {
+    "path": "3/sun-er-crni-sobo-60-x-45-x-5-cm.webp",
     "sheet": "simple"
   },
   "symphysodon-aequifasciatus": {
