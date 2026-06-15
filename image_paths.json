@@ -1,4 +1,20 @@
 {
+  "Atman-xr320-akvarijum-beli": {
+    "path": "3/Atman-xr320-akvarijum-beli.webp",
+    "sheet": "variable"
+  },
+  "Atman-xr320-akvarijum-beli-2": {
+    "path": "3/Atman-xr320-akvarijum-beli-2.webp",
+    "sheet": "variable"
+  },
+  "Atman-xr320-akvarijum-crni": {
+    "path": "3/Atman-xr320-akvarijum-crni.webp",
+    "sheet": "variable"
+  },
+  "Atman-xr320-akvarijum-crni-2": {
+    "path": "3/Atman-xr320-akvarijum-crni-2.webp",
+    "sheet": "variable"
+  },
   "acanthurus-lineatus": {
     "path": "1/acanthurus-lineatus.webp",
     "sheet": "simple"
