@@ -2323,10 +2323,6 @@
     "path": "1/betta-splendens.webp",
     "sheet": "simple"
   },
-  "biljke-za-akvarijum": {
-    "path": "1/biljke-za-akvarijum.webp",
-    "sheet": "simple"
-  },
   "bio-ball-xy-260": {
     "path": "1/bio-ball-xy-260.webp",
     "sheet": "simple"
@@ -6249,10 +6245,6 @@
   },
   "oase-soil-9l-black": {
     "path": "2/oase-soil-9l-black.webp",
-    "sheet": "simple"
-  },
-  "oase-za-titna-podloga-flis": {
-    "path": "3/oase-za-titna-podloga-flis.webp",
     "sheet": "simple"
   },
   "oase-zastitna-podloga-flis-2x75m": {
