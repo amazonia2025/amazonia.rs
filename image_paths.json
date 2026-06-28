@@ -135,6 +135,10 @@
     "path": "1/alternanthera-reineckii-mini.webp",
     "sheet": "simple"
   },
+  "alternanthera-reineckii-rosanervig": {
+    "path": "3/alternanthera-reineckii-rosanervig.webp",
+    "sheet": "simple"
+  },
   "altolamprologus-compressiceps-gold": {
     "path": "1/altolamprologus-compressiceps-gold.webp",
     "sheet": "simple"
@@ -279,10 +283,6 @@
     "path": "1/amfora-dekoracija-za-akvarijum.webp",
     "sheet": null
   },
-  "ammania-multiflora": {
-    "path": "1/ammania-multiflora.webp",
-    "sheet": "simple"
-  },
   "amphilophus-citrinellus-x": {
     "path": "1/amphilophus-citrinellus-x.webp",
     "sheet": null
@@ -333,6 +333,10 @@
   },
   "anubias-barteri-nana": {
     "path": "3/anubias-barteri-nana.webp",
+    "sheet": "simple"
+  },
+  "anubias-barteri-var-barteri": {
+    "path": "3/anubias-barteri-var-barteri.webp",
     "sheet": "simple"
   },
   "apistogramma-agassizii": {
@@ -2279,16 +2283,8 @@
     "path": "1/auratus-cichlid.webp",
     "sheet": "simple"
   },
-  "bacopa-australis": {
-    "path": "1/bacopa-australis.webp",
-    "sheet": "simple"
-  },
-  "bacopa-lanigera": {
-    "path": "1/bacopa-lanigera.webp",
-    "sheet": "simple"
-  },
-  "bacopa-monnieri": {
-    "path": "1/bacopa-monnieri.webp",
+  "bacopa-caroliniana": {
+    "path": "3/bacopa-caroliniana.webp",
     "sheet": "simple"
   },
   "balantiochelios-melanopterus": {
@@ -2423,6 +2419,10 @@
     "path": "1/brod-za-akvarijum.webp",
     "sheet": "simple"
   },
+  "bucephalandra-sp-red": {
+    "path": "3/bucephalandra-sp-red.webp",
+    "sheet": "simple"
+  },
   "bure": {
     "path": "3/bure.webp",
     "sheet": "simple"
@@ -2466,10 +2466,6 @@
   "carassius-auratus-8-cm": {
     "path": "1/carassius-auratus-8-cm.webp",
     "sheet": "variable"
-  },
-  "cardamine-lyrata": {
-    "path": "1/cardamine-lyrata.webp",
-    "sheet": "simple"
   },
   "caridina-multidentata": {
     "path": "1/caridina-multidentata.webp",
@@ -2819,6 +2815,10 @@
     "path": "1/chihiros-wrgb2-slim-slim-90-2.webp",
     "sheet": "variable"
   },
+  "christmas-moss": {
+    "path": "3/christmas-moss.webp",
+    "sheet": "simple"
+  },
   "chromis-viridis": {
     "path": "1/chromis-viridis.webp",
     "sheet": "simple"
@@ -2987,16 +2987,20 @@
     "path": "1/crossocheilus-siamensis.webp",
     "sheet": "simple"
   },
-  "cryptocoryne-beckettii": {
-    "path": "1/cryptocoryne-beckettii.webp",
+  "cryptocoryne-albida-brown": {
+    "path": "3/cryptocoryne-albida-brown.webp",
     "sheet": "simple"
   },
-  "cryptocoryne-undulata": {
-    "path": "1/cryptocoryne-undulata.webp",
+  "cryptocoryne-crispatula": {
+    "path": "3/cryptocoryne-crispatula.webp",
     "sheet": "simple"
   },
-  "cryptocoryne-willisii": {
-    "path": "1/cryptocoryne-willisii.webp",
+  "cryptocoryne-wendtii-green": {
+    "path": "3/cryptocoryne-wendtii-green.webp",
+    "sheet": "simple"
+  },
+  "cyperus-helferi": {
+    "path": "3/cyperus-helferi.webp",
     "sheet": "simple"
   },
   "danio-choprae": {
@@ -3691,24 +3695,12 @@
     "path": "1/echidna-nebulosa.webp",
     "sheet": "simple"
   },
-  "echinodorus-janii": {
-    "path": "1/echinodorus-janii.webp",
-    "sheet": "simple"
-  },
-  "echinodorus-osiris": {
-    "path": "1/echinodorus-osiris.webp",
-    "sheet": "simple"
-  },
   "echinodorus-ozelot": {
     "path": "1/echinodorus-ozelot.webp",
     "sheet": "simple"
   },
-  "echinodorus-rubin": {
-    "path": "1/echinodorus-rubin.webp",
-    "sheet": "simple"
-  },
-  "echinodorus-uruguayensis": {
-    "path": "1/echinodorus-uruguayensis.webp",
+  "echinodorus-red-diamond": {
+    "path": "3/echinodorus-red-diamond.webp",
     "sheet": "simple"
   },
   "ecotech-ai-prime-hanging-kit": {
@@ -4183,14 +4175,6 @@
     "path": "1/electric-blue-cichlid.webp",
     "sheet": "simple"
   },
-  "eleocharis-acicularis": {
-    "path": "1/eleocharis-acicularis.webp",
-    "sheet": "simple"
-  },
-  "eleocharis-parvula": {
-    "path": "1/eleocharis-parvula.webp",
-    "sheet": "simple"
-  },
   "elephant-fish": {
     "path": "1/elephant-fish.webp",
     "sheet": "simple"
@@ -4395,16 +4379,12 @@
     "path": "1/gupi-tuxedo.webp",
     "sheet": "simple"
   },
-  "gymnocoronis-spilanthoides": {
-    "path": "1/gymnocoronis-spilanthoides.webp",
-    "sheet": "simple"
-  },
   "gymnocorymbus-ternetzi": {
     "path": "1/gymnocorymbus-ternetzi.webp",
     "sheet": "simple"
   },
-  "hedyotis-salzmannii": {
-    "path": "1/hedyotis-salzmannii.webp",
+  "helanthium-quadricostatus": {
+    "path": "3/helanthium-quadricostatus.webp",
     "sheet": "simple"
   },
   "helena-pu": {
@@ -4415,20 +4395,12 @@
     "path": "1/helialux-spectrum-splitter.webp",
     "sheet": "simple"
   },
-  "hemianthus-micranthemoides": {
-    "path": "1/hemianthus-micranthemoides.webp",
-    "sheet": "simple"
-  },
   "hemichromis-lifalili": {
     "path": "1/hemichromis-lifalili.webp",
     "sheet": "simple"
   },
   "hemigrammus-bleheri": {
     "path": "1/hemigrammus-bleheri.webp",
-    "sheet": "simple"
-  },
-  "heteranthera-zosterifolia": {
-    "path": "1/heteranthera-zosterifolia.webp",
     "sheet": "simple"
   },
   "hippuris-vulgaris": {
@@ -4455,10 +4427,6 @@
     "path": "1/houttuynia-cordata.webp",
     "sheet": "simple"
   },
-  "hydrocotyle-leucocephala": {
-    "path": "1/hydrocotyle-leucocephala.webp",
-    "sheet": "simple"
-  },
   "hydrocotyle-leucocephalla": {
     "path": "1/hydrocotyle-leucocephalla.webp",
     "sheet": null
@@ -4467,20 +4435,12 @@
     "path": "1/hydrocotyle-tripartita.webp",
     "sheet": "simple"
   },
-  "hydrocotyle-verticillata": {
-    "path": "1/hydrocotyle-verticillata.webp",
+  "hygrophila-difformis": {
+    "path": "3/hygrophila-difformis.webp",
     "sheet": "simple"
   },
-  "hygrophila-angustifolia": {
-    "path": "1/hygrophila-angustifolia.webp",
-    "sheet": "simple"
-  },
-  "hygrophila-polysperma": {
-    "path": "1/hygrophila-polysperma.webp",
-    "sheet": "simple"
-  },
-  "hygrophila-salicifolia": {
-    "path": "1/hygrophila-salicifolia.webp",
+  "hygrophila-pinnatifida": {
+    "path": "3/hygrophila-pinnatifida.webp",
     "sheet": "simple"
   },
   "hygrophilia-sallicifolia": {
@@ -5563,12 +5523,8 @@
     "path": "2/labidochromis-hongi.webp",
     "sheet": "simple"
   },
-  "lilaeopsis-brasiliensis": {
-    "path": "2/lilaeopsis-brasiliensis.webp",
-    "sheet": "simple"
-  },
-  "lilaeopsis-mauritiana": {
-    "path": "2/lilaeopsis-mauritiana.webp",
+  "limnobium-laevigatum": {
+    "path": "3/limnobium-laevigatum.webp",
     "sheet": "simple"
   },
   "liya-wh10": {
@@ -5583,20 +5539,8 @@
     "path": "2/liya-wh10-m.webp",
     "sheet": "variable"
   },
-  "lobelia-cardinalis": {
-    "path": "2/lobelia-cardinalis.webp",
-    "sheet": "simple"
-  },
-  "lobelia-sp-mini": {
-    "path": "2/lobelia-sp-mini.webp",
-    "sheet": "simple"
-  },
   "loricaria-red": {
     "path": "2/loricaria-red.webp",
-    "sheet": "simple"
-  },
-  "ludwigia-red-skeleton": {
-    "path": "2/ludwigia-red-skeleton.webp",
     "sheet": "simple"
   },
   "ludwigia-repens": {
@@ -5605,14 +5549,6 @@
   },
   "ludwigia-repens-rubin": {
     "path": "2/ludwigia-repens-rubin.webp",
-    "sheet": "simple"
-  },
-  "ludwigia-x-arcuata": {
-    "path": "2/ludwigia-x-arcuata.webp",
-    "sheet": "simple"
-  },
-  "lysimachia-nummularia-aurea": {
-    "path": "2/lysimachia-nummularia-aurea.webp",
     "sheet": "simple"
   },
   "magfloat-long": {
@@ -5731,10 +5667,6 @@
     "path": "2/mantis-tornado-skimmer-tornado-180.webp",
     "sheet": "variable"
   },
-  "marsilea-hirsuta": {
-    "path": "2/marsilea-hirsuta.webp",
-    "sheet": "simple"
-  },
   "mastacembelus-eel": {
     "path": "2/mastacembelus-eel.webp",
     "sheet": "simple"
@@ -5823,20 +5755,20 @@
     "path": "2/melanotaenia-praecox.webp",
     "sheet": "simple"
   },
-  "microdevario-kubotai": {
-    "path": "2/microdevario-kubotai.webp",
+  "micranthemum-umbrosum": {
+    "path": "3/micranthemum-umbrosum.webp",
     "sheet": "simple"
   },
-  "micromeria-brownei": {
-    "path": "2/micromeria-brownei.webp",
+  "microdevario-kubotai": {
+    "path": "2/microdevario-kubotai.webp",
     "sheet": "simple"
   },
   "microsorum-pteropus": {
     "path": "2/microsorum-pteropus.webp",
     "sheet": "simple"
   },
-  "microsorum-pteropus-windelov": {
-    "path": "2/microsorum-pteropus-windelov.webp",
+  "microsorum-pteropus-trident": {
+    "path": "1/microsorum-pteropus-trident.webp",
     "sheet": "simple"
   },
   "mikrogeophagus-altispinosus": {
@@ -5865,10 +5797,6 @@
   },
   "moli-mix": {
     "path": "2/moli-mix.webp",
-    "sheet": "simple"
-  },
-  "monoselenium-tenerum": {
-    "path": "2/monoselenium-tenerum.webp",
     "sheet": "simple"
   },
   "morska-zvezda": {
@@ -5909,10 +5837,6 @@
   },
   "myaqua1900": {
     "path": "2/myaqua1900.webp",
-    "sheet": "simple"
-  },
-  "myriophyllum-aquaticum": {
-    "path": "2/myriophyllum-aquaticum.webp",
     "sheet": "simple"
   },
   "myriophyllum-brasiliensis": {
@@ -6023,14 +5947,6 @@
     "path": "2/neritina-pulligera.webp",
     "sheet": null
   },
-  "nomaphila-stricta": {
-    "path": "2/nomaphila-stricta.webp",
-    "sheet": "simple"
-  },
-  "nomaphila-stricta-compact": {
-    "path": "2/nomaphila-stricta-compact.webp",
-    "sheet": "simple"
-  },
   "novolux-day": {
     "path": "2/novolux-day.webp",
     "sheet": "simple"
@@ -6101,10 +6017,6 @@
   },
   "nubios-zeleni-pesak-6-8-mm-1-kg": {
     "path": "3/nubios-zeleni-pesak-6-8-mm-1-kg.webp",
-    "sheet": "simple"
-  },
-  "nymphaea-lotus": {
-    "path": "2/nymphaea-lotus.webp",
     "sheet": "simple"
   },
   "nymphaea-lotus-red": {
@@ -6421,18 +6333,6 @@
   },
   "poecilia-sphenops-var": {
     "path": "2/poecilia-sphenops-var.webp",
-    "sheet": "simple"
-  },
-  "pogostemon-octopus": {
-    "path": "2/pogostemon-octopus.webp",
-    "sheet": "simple"
-  },
-  "pogostemon-stellata": {
-    "path": "2/pogostemon-stellata.webp",
-    "sheet": "simple"
-  },
-  "polygonum-sao-paulo": {
-    "path": "2/polygonum-sao-paulo.webp",
     "sheet": "simple"
   },
   "pomacanthus-imperator": {
@@ -6991,16 +6891,12 @@
     "path": "2/rotala-rotundifolia.webp",
     "sheet": "simple"
   },
-  "rotala-sp-green": {
-    "path": "2/rotala-sp-green.webp",
-    "sheet": "simple"
-  },
-  "rotala-sp-myanmar": {
-    "path": "2/rotala-sp-myanmar.webp",
-    "sheet": "simple"
-  },
   "rotala-vietnam-hra": {
     "path": "2/rotala-vietnam-hra.webp",
+    "sheet": "simple"
+  },
+  "sagittaria-subulata": {
+    "path": "3/sagittaria-subulata.webp",
     "sheet": "simple"
   },
   "salifert-ca-test": {
@@ -7047,10 +6943,6 @@
     "path": "3/salifert-po4-test-za-akvarijumsku-vodu.webp",
     "sheet": "simple"
   },
-  "samolus-valerandi": {
-    "path": "2/samolus-valerandi.webp",
-    "sheet": "simple"
-  },
   "sand-stone": {
     "path": "3/sand-stone.webp",
     "sheet": "simple"
@@ -7061,10 +6953,6 @@
   },
   "saulosi-cichlids": {
     "path": "2/saulosi-cichlids.webp",
-    "sheet": "simple"
-  },
-  "saururus-cernuus": {
-    "path": "2/saururus-cernuus.webp",
     "sheet": "simple"
   },
   "savitljivi-raspr-iva-vazduha-ly039-20cm": {
