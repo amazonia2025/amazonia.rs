@@ -2304,7 +2304,7 @@
     "sheet": "simple"
   },
   "atman-akvarijum-rgt-35-bela-boja": {
-    "path": "1/atman-akvarijum-rgt-35-bela-boja.webp",
+    "path": "3/atman-akvarijum-rgt-35-bela-boja.webp",
     "sheet": "variable"
   },
   "atman-akvarijum-rgt-35-crna-boja": {
@@ -7279,30 +7279,6 @@
     "path": "1/japanka-kometa.webp",
     "sheet": "simple"
   },
-  "jbl-catappa-xl": {
-    "path": "1/jbl-catappa-xl.webp",
-    "sheet": "simple"
-  },
-  "jbl-catappa-xl-2": {
-    "path": "1/jbl-catappa-xl-2.webp",
-    "sheet": "simple"
-  },
-  "jbl-nano-catappa": {
-    "path": "1/jbl-nano-catappa.webp",
-    "sheet": "simple"
-  },
-  "jbl-proflora-co2-crevo-crno": {
-    "path": "3/jbl-proflora-co2-crevo-crno.webp",
-    "sheet": "simple"
-  },
-  "jbl-proflora-co2-crevo-crno-2": {
-    "path": "3/jbl-proflora-co2-crevo-crno-2.webp",
-    "sheet": "simple"
-  },
-  "jbl-proflora-co2-crevo-providno": {
-    "path": "3/jbl-proflora-co2-crevo-providno.webp",
-    "sheet": "simple"
-  },
   "jbl-proflora-crevo-za-co2-crno": {
     "path": "1/jbl-proflora-crevo-za-co2-crno.webp",
     "sheet": null
@@ -7326,10 +7302,6 @@
   "jbl-prosilent-jbl-s": {
     "path": "1/jbl-prosilent-jbl-s.webp",
     "sheet": "variable"
-  },
-  "jbl-sansibar-grey": {
-    "path": "3/jbl-sansibar-grey.webp",
-    "sheet": "simple"
   },
   "jbl-sansibar-grey-5kg": {
     "path": "1/jbl-sansibar-grey-5kg.webp",
@@ -22823,8 +22795,8 @@
     "path": "3/tropical-krill-chips-250-ml.webp",
     "sheet": "variable"
   },
-  "tropical-krill-gran-1000-ml": {
-    "path": "3/tropical-krill-gran-1000-ml.webp",
+  "tropical-krill-gran-100-ml": {
+    "path": "1/tropical-krill-gran-100-ml.webp",
     "sheet": "variable"
   },
   "tropical-krill-gran-250-ml": {
@@ -22838,6 +22810,10 @@
   "tropical-malawi-1000-ml": {
     "path": "3/tropical-malawi-1000-ml.webp",
     "sheet": null
+  },
+  "tropical-malawi-flakes": {
+    "path": "3/tropical-malawi-flakes.webp",
+    "sheet": "simple"
   },
   "tropical-marine-power-clownfish": {
     "path": "3/tropical-marine-power-clownfish.webp",
