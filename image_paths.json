@@ -67,44 +67,8 @@
     "path": "4/acana-classic-wild-coast-9-7-kg.webp",
     "sheet": "variable"
   },
-  "acana-heritage-adult-small-breed-2-kg": {
-    "path": "4/acana-heritage-adult-small-breed-2-kg.webp",
-    "sheet": "variable"
-  },
-  "acana-heritage-adult-small-breed-340-g": {
-    "path": "4/acana-heritage-adult-small-breed-340-g.webp",
-    "sheet": "variable"
-  },
-  "acana-heritage-adult-small-breed-6-kg": {
-    "path": "4/acana-heritage-adult-small-breed-6-kg.webp",
-    "sheet": "variable"
-  },
-  "acana-heritage-light-fit-11-4-kg": {
-    "path": "4/acana-heritage-light-fit-11-4-kg.webp",
-    "sheet": "variable"
-  },
-  "acana-heritage-light-fit-2-kg": {
-    "path": "4/acana-heritage-light-fit-2-kg.webp",
-    "sheet": "variable"
-  },
-  "acana-heritage-puppy-junior-11-4-kg": {
-    "path": "4/acana-heritage-puppy-junior-11-4-kg.webp",
-    "sheet": "variable"
-  },
-  "acana-heritage-puppy-junior-2-kg": {
-    "path": "4/acana-heritage-puppy-junior-2-kg.webp",
-    "sheet": "variable"
-  },
   "acana-heritage-puppy-large-breed": {
     "path": "5/acana-heritage-puppy-large-breed.webp",
-    "sheet": "simple"
-  },
-  "acana-heritage-puppy-small-breed": {
-    "path": "5/acana-heritage-puppy-small-breed.webp",
-    "sheet": "simple"
-  },
-  "acana-heritage-senior": {
-    "path": "5/acana-heritage-senior.webp",
     "sheet": "simple"
   },
   "acana-regionals-grasslands-11-4-kg": {
@@ -2304,7 +2268,7 @@
     "sheet": "simple"
   },
   "atman-akvarijum-rgt-35-bela-boja": {
-    "path": "1/atman-akvarijum-rgt-35-bela-boja.webp",
+    "path": "3/atman-akvarijum-rgt-35-bela-boja.webp",
     "sheet": "variable"
   },
   "atman-akvarijum-rgt-35-crna-boja": {
@@ -4124,7 +4088,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "1/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "5/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -10943,14 +10907,6 @@
     "path": "2/oase-makaze-za-biljke-prohromske-makaze-za-ure-ivanje-biljaka.webp",
     "sheet": "simple"
   },
-  "oase-pondopress-pp-10000l": {
-    "path": "2/oase-pondopress-pp-10000l.webp",
-    "sheet": "variable"
-  },
-  "oase-pondopress-pp-5000l": {
-    "path": "2/oase-pondopress-pp-5000l.webp",
-    "sheet": "variable"
-  },
   "oase-soil-9l-black": {
     "path": "2/oase-soil-9l-black.webp",
     "sheet": "simple"
@@ -12225,6 +12181,14 @@
   },
   "pontec-pondomax-pm-8000": {
     "path": "2/pontec-pondomax-pm-8000.webp",
+    "sheet": "variable"
+  },
+  "pontec-pondopress-pp-10000l": {
+    "path": "1/pontec-pondopress-pp-10000l.webp",
+    "sheet": "variable"
+  },
+  "pontec-pondopress-pp-5000l": {
+    "path": "1/pontec-pondopress-pp-5000l.webp",
     "sheet": "variable"
   },
   "pontec-pondovario-pv-1000": {
@@ -16470,10 +16434,6 @@
   "skudo-transporter-model-7": {
     "path": "5/skudo-transporter-model-7.webp",
     "sheet": "variable"
-  },
-  "sobo-akvarijum-t-720f": {
-    "path": "3/sobo-akvarijum-t-720f.webp",
-    "sheet": "simple"
   },
   "sobo-akvarijum-t-720f-15l-bela": {
     "path": "2/sobo-akvarijum-t-720f-15l-bela.webp",
