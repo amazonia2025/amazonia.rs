@@ -2884,7 +2884,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "1/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -8268,11 +8268,11 @@
     "sheet": "variable"
   },
   "sicce-jolly-preset-submersible-heater-jolly-12w": {
-    "path": "1/sicce-jolly-preset-submersible-heater-jolly-12w.webp",
+    "path": "2/sicce-jolly-preset-submersible-heater-jolly-12w.webp",
     "sheet": "variable"
   },
   "sicce-jolly-preset-submersible-heater-jolly-25w": {
-    "path": "1/sicce-jolly-preset-submersible-heater-jolly-25w.webp",
+    "path": "2/sicce-jolly-preset-submersible-heater-jolly-25w.webp",
     "sheet": "variable"
   },
   "sicce-mega-filter-mega-650": {
@@ -9067,6 +9067,30 @@
     "path": "2/tetra-akvarijum-60l.webp",
     "sheet": "variable"
   },
+  "tetra-ambulia-l-30-cm": {
+    "path": "1/tetra-ambulia-l-30-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-ambulia-m-23-cm": {
+    "path": "1/tetra-ambulia-m-23-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-ambulia-s-15-cm": {
+    "path": "1/tetra-ambulia-s-15-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-anacharis-l-30-cm": {
+    "path": "1/tetra-anacharis-l-30-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-anacharis-m-23-cm": {
+    "path": "1/tetra-anacharis-m-23-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-anacharis-s-15-cm": {
+    "path": "1/tetra-anacharis-s-15-cm.webp",
+    "sheet": "variable"
+  },
   "tetra-aps-aps100": {
     "path": "2/tetra-aps-aps100.webp",
     "sheet": "variable"
@@ -9102,6 +9126,18 @@
   "tetra-bactozym-10-tableta": {
     "path": "2/tetra-bactozym-10-tableta.webp",
     "sheet": null
+  },
+  "tetra-cabomba-l-30-cm": {
+    "path": "1/tetra-cabomba-l-30-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-cabomba-m-23-cm": {
+    "path": "1/tetra-cabomba-m-23-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-cabomba-s-15-cm": {
+    "path": "1/tetra-cabomba-s-15-cm.webp",
+    "sheet": "variable"
   },
   "tetra-cichlid-sticks-1000-ml-rinfuz": {
     "path": "3/tetra-cichlid-sticks-1000-ml-rinfuz.webp",
@@ -9175,6 +9211,18 @@
     "path": "2/tetra-ex-ex-700-plus-3.webp",
     "sheet": "variable"
   },
+  "tetra-foxtail-l-30-cm": {
+    "path": "1/tetra-foxtail-l-30-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-foxtail-m-23-cm": {
+    "path": "1/tetra-foxtail-m-23-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-foxtail-s-15-cm": {
+    "path": "1/tetra-foxtail-s-15-cm.webp",
+    "sheet": "variable"
+  },
   "tetra-goldfish-colour-flakes-100-ml": {
     "path": "2/tetra-goldfish-colour-flakes-100-ml.webp",
     "sheet": "simple"
@@ -9190,6 +9238,30 @@
   "tetra-goldfish-sticks-100-ml": {
     "path": "2/tetra-goldfish-sticks-100-ml.webp",
     "sheet": "simple"
+  },
+  "tetra-hygrophila-l-30-cm": {
+    "path": "2/tetra-hygrophila-l-30-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-hygrophila-m-23-cm": {
+    "path": "1/tetra-hygrophila-m-23-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-hygrophila-s-15-cm": {
+    "path": "1/tetra-hygrophila-s-15-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-ludwigia-l-30-cm": {
+    "path": "2/tetra-ludwigia-l-30-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-ludwigia-m-23-cm": {
+    "path": "2/tetra-ludwigia-m-23-cm.webp",
+    "sheet": "variable"
+  },
+  "tetra-ludwigia-s-15-cm": {
+    "path": "2/tetra-ludwigia-s-15-cm.webp",
+    "sheet": "variable"
   },
   "tetra-min-100-ml": {
     "path": "2/tetra-min-100-ml.webp",
@@ -9231,18 +9303,6 @@
     "path": "2/tetra-my-feeder-automatska-hranilica.webp",
     "sheet": null
   },
-  "tetra-plasti-na-biljka-l-30-cm": {
-    "path": "2/tetra-plasti-na-biljka-l-30-cm.webp",
-    "sheet": "variable"
-  },
-  "tetra-plasti-na-biljka-m-23-cm": {
-    "path": "2/tetra-plasti-na-biljka-m-23-cm.webp",
-    "sheet": "variable"
-  },
-  "tetra-plasti-na-biljka-s-15-cm": {
-    "path": "2/tetra-plasti-na-biljka-s-15-cm.webp",
-    "sheet": "variable"
-  },
   "tetra-pond-algorem-250-ml": {
     "path": "2/tetra-pond-algorem-250-ml.webp",
     "sheet": "variable"
@@ -9279,13 +9339,13 @@
     "path": "3/tetra-pro-algae-10000-ml.webp",
     "sheet": "variable"
   },
+  "tetra-pro-colour-100-ml": {
+    "path": "2/tetra-pro-colour-100-ml.webp",
+    "sheet": "simple"
+  },
   "tetra-pro-colour-crisps-10-l": {
     "path": "2/tetra-pro-colour-crisps-10-l.webp",
     "sheet": "variable"
-  },
-  "tetra-pro-colour-crisps-100-ml": {
-    "path": "2/tetra-pro-colour-crisps-100-ml.webp",
-    "sheet": "simple"
   },
   "tetra-pro-colour-crisps-1l-rinfuz": {
     "path": "2/tetra-pro-colour-crisps-1l-rinfuz.webp",
