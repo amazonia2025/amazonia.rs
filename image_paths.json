@@ -2239,16 +2239,8 @@
     "path": "1/atman-xr-380-akvarijum-bela-boja.webp",
     "sheet": "variable"
   },
-  "atman-xr-380-akvarijum-bela-boja-2": {
-    "path": "1/atman-xr-380-akvarijum-bela-boja-2.webp",
-    "sheet": "variable"
-  },
   "atman-xr-380-akvarijum-crna-boja": {
     "path": "1/atman-xr-380-akvarijum-crna-boja.webp",
-    "sheet": "variable"
-  },
-  "atman-xr-380-akvarijum-crna-boja-2": {
-    "path": "1/atman-xr-380-akvarijum-crna-boja-2.webp",
     "sheet": "variable"
   },
   "aulonocara-albino-red": {
@@ -8439,20 +8431,12 @@
     "path": "2/sobo-al-cob-al-180cob-8w-2.webp",
     "sheet": "variable"
   },
-  "sobo-al-cob-al-180cob-8w-3": {
-    "path": "2/sobo-al-cob-al-180cob-8w-3.webp",
-    "sheet": "variable"
-  },
   "sobo-al-cob-al-480cob-21w": {
     "path": "2/sobo-al-cob-al-480cob-21w.webp",
     "sheet": "variable"
   },
   "sobo-al-cob-al-480cob-21w-2": {
     "path": "2/sobo-al-cob-al-480cob-21w-2.webp",
-    "sheet": "variable"
-  },
-  "sobo-al-cob-al-480cob-21w-3": {
-    "path": "2/sobo-al-cob-al-480cob-21w-3.webp",
     "sheet": "variable"
   },
   "sobo-al-cob-al-580cob-27w": {
@@ -8463,20 +8447,12 @@
     "path": "2/sobo-al-cob-al-580cob-27w-2.webp",
     "sheet": "variable"
   },
-  "sobo-al-cob-al-580cob-27w-3": {
-    "path": "2/sobo-al-cob-al-580cob-27w-3.webp",
-    "sheet": "variable"
-  },
   "sobo-al-cob-al-780cob-32w": {
     "path": "2/sobo-al-cob-al-780cob-32w.webp",
     "sheet": "variable"
   },
   "sobo-al-cob-al-780cob-32w-2": {
     "path": "2/sobo-al-cob-al-780cob-32w-2.webp",
-    "sheet": "variable"
-  },
-  "sobo-al-cob-al-780cob-32w-3": {
-    "path": "2/sobo-al-cob-al-780cob-32w-3.webp",
     "sheet": "variable"
   },
   "sobo-ap-ap-200-1-izlaz": {
@@ -9359,48 +9335,24 @@
     "path": "3/tetratec-ht-100-w-do-100-l.webp",
     "sheet": "variable"
   },
-  "tetratec-ht-100-w-do-100-l-2": {
-    "path": "3/tetratec-ht-100-w-do-100-l-2.webp",
-    "sheet": "variable"
-  },
   "tetratec-ht-150-w-do-150-l": {
     "path": "3/tetratec-ht-150-w-do-150-l.webp",
-    "sheet": "variable"
-  },
-  "tetratec-ht-150-w-do-150-l-2": {
-    "path": "3/tetratec-ht-150-w-do-150-l-2.webp",
     "sheet": "variable"
   },
   "tetratec-ht-200-w-do-200-l": {
     "path": "3/tetratec-ht-200-w-do-200-l.webp",
     "sheet": "variable"
   },
-  "tetratec-ht-200-w-do-200-l-2": {
-    "path": "3/tetratec-ht-200-w-do-200-l-2.webp",
-    "sheet": "variable"
-  },
   "tetratec-ht-300-w-do-400-l": {
     "path": "3/tetratec-ht-300-w-do-400-l.webp",
-    "sheet": "variable"
-  },
-  "tetratec-ht-300-w-do-400-l-2": {
-    "path": "3/tetratec-ht-300-w-do-400-l-2.webp",
     "sheet": "variable"
   },
   "tetratec-ht-50-w-do-50-l": {
     "path": "3/tetratec-ht-50-w-do-50-l.webp",
     "sheet": "variable"
   },
-  "tetratec-ht-50-w-do-50-l-2": {
-    "path": "3/tetratec-ht-50-w-do-50-l-2.webp",
-    "sheet": "variable"
-  },
   "tetratec-ht-75-w-do-75-l": {
     "path": "3/tetratec-ht-75-w-do-75-l.webp",
-    "sheet": "variable"
-  },
-  "tetratec-ht-75-w-do-75-l-2": {
-    "path": "3/tetratec-ht-75-w-do-75-l-2.webp",
     "sheet": "variable"
   },
   "thayeria-boehlkei": {
@@ -10031,24 +9983,12 @@
     "path": "3/vre-ice-za-filter-materijal-1-l.webp",
     "sheet": "variable"
   },
-  "vre-ice-za-filter-materijal-1-l-2": {
-    "path": "3/vre-ice-za-filter-materijal-1-l-2.webp",
-    "sheet": "variable"
-  },
   "vre-ice-za-filter-materijal-250-ml": {
     "path": "3/vre-ice-za-filter-materijal-250-ml.webp",
     "sheet": "variable"
   },
-  "vre-ice-za-filter-materijal-250-ml-2": {
-    "path": "3/vre-ice-za-filter-materijal-250-ml-2.webp",
-    "sheet": "variable"
-  },
   "vre-ice-za-filter-materijal-500-ml": {
     "path": "3/vre-ice-za-filter-materijal-500-ml.webp",
-    "sheet": "variable"
-  },
-  "vre-ice-za-filter-materijal-500-ml-2": {
-    "path": "3/vre-ice-za-filter-materijal-500-ml-2.webp",
     "sheet": "variable"
   },
   "white-diamond-diskus": {
