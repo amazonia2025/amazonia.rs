@@ -375,8 +375,16 @@
     "path": "1/aqua-illumination-nero-nero-7.webp",
     "sheet": "variable"
   },
-  "aqua-ljunak-kvarcni-2-3-mm": {
-    "path": "2/aqua-ljunak-kvarcni-2-3-mm.webp",
+  "aqua-ljunak-kvarcni-2-3-mm-crni": {
+    "path": "1/aqua-ljunak-kvarcni-2-3-mm-crni.webp",
+    "sheet": "simple"
+  },
+  "aqua-ljunak-kvarcni-multicolor-2-3-mm": {
+    "path": "2/aqua-ljunak-kvarcni-multicolor-2-3-mm.webp",
+    "sheet": "simple"
+  },
+  "aqua-ljunak-kvarcni-natural-2-3-mm": {
+    "path": "2/aqua-ljunak-kvarcni-natural-2-3-mm.webp",
     "sheet": "simple"
   },
   "aqua-ljunak-re-ni-1-2-5-mm-2-kg": {
@@ -2896,7 +2904,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "1/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
