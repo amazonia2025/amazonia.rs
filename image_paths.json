@@ -375,6 +375,18 @@
     "path": "1/aqua-illumination-nero-nero-7.webp",
     "sheet": "variable"
   },
+  "aqua-ljunak-kvarcni": {
+    "path": "2/aqua-ljunak-kvarcni.webp",
+    "sheet": "simple"
+  },
+  "aqua-ljunak-re-ni-2-kg": {
+    "path": "1/aqua-ljunak-re-ni-2-kg.webp",
+    "sheet": "variable"
+  },
+  "aqua-ljunak-re-ni-5-kg": {
+    "path": "1/aqua-ljunak-re-ni-5-kg.webp",
+    "sheet": "variable"
+  },
   "aquadeco-nature-soil-black-10l": {
     "path": "1/aquadeco-nature-soil-black-10l.webp",
     "sheet": "variable"
@@ -2876,7 +2888,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "1/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
