@@ -375,16 +375,24 @@
     "path": "1/aqua-illumination-nero-nero-7.webp",
     "sheet": "variable"
   },
-  "aqua-ljunak-kvarcni": {
-    "path": "2/aqua-ljunak-kvarcni.webp",
+  "aqua-ljunak-kvarcni-2-3-mm": {
+    "path": "2/aqua-ljunak-kvarcni-2-3-mm.webp",
     "sheet": "simple"
   },
-  "aqua-ljunak-re-ni-2-kg": {
-    "path": "1/aqua-ljunak-re-ni-2-kg.webp",
+  "aqua-ljunak-re-ni-1-2-5-mm-2-kg": {
+    "path": "2/aqua-ljunak-re-ni-1-2-5-mm-2-kg.webp",
     "sheet": "variable"
   },
-  "aqua-ljunak-re-ni-5-kg": {
-    "path": "1/aqua-ljunak-re-ni-5-kg.webp",
+  "aqua-ljunak-re-ni-1-2-5-mm-5-kg": {
+    "path": "2/aqua-ljunak-re-ni-1-2-5-mm-5-kg.webp",
+    "sheet": "variable"
+  },
+  "aqua-ljunak-re-ni-3-4-mm-2-kg": {
+    "path": "2/aqua-ljunak-re-ni-3-4-mm-2-kg.webp",
+    "sheet": "variable"
+  },
+  "aqua-ljunak-re-ni-3-4-mm-5-kg": {
+    "path": "2/aqua-ljunak-re-ni-3-4-mm-5-kg.webp",
     "sheet": "variable"
   },
   "aquadeco-nature-soil-black-10l": {
