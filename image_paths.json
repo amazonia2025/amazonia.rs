@@ -251,6 +251,54 @@
     "path": "1/amazonia-boca-za-co2-5kg.webp",
     "sheet": null
   },
+  "amazonia-pesak-za-akvarijum-0-17mm-10-kg": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-17mm-10-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-17mm-10-kg-2": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-17mm-10-kg-2.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-17mm-5-kg": {
+    "path": "1/amazonia-pesak-za-akvarijum-0-17mm-5-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-17mm-5-kg-2": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-17mm-5-kg-2.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-42mm-10-kg": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-42mm-10-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-42mm-10-kg-2": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-42mm-10-kg-2.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-42mm-5-kg": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-42mm-5-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-0-42mm-5-kg-2": {
+    "path": "2/amazonia-pesak-za-akvarijum-0-42mm-5-kg-2.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-1-2-mm-10-kg": {
+    "path": "2/amazonia-pesak-za-akvarijum-1-2-mm-10-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-1-2-mm-10-kg-2": {
+    "path": "2/amazonia-pesak-za-akvarijum-1-2-mm-10-kg-2.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-1-2-mm-5-kg": {
+    "path": "2/amazonia-pesak-za-akvarijum-1-2-mm-5-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-pesak-za-akvarijum-1-2-mm-5-kg-2": {
+    "path": "2/amazonia-pesak-za-akvarijum-1-2-mm-5-kg-2.webp",
+    "sheet": "variable"
+  },
   "amfora": {
     "path": "3/amfora.webp",
     "sheet": "simple"
@@ -2904,7 +2952,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "1/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
