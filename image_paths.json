@@ -2928,7 +2928,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "3/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -4450,6 +4450,118 @@
   "flipper-zamenski-zileti-std": {
     "path": "1/flipper-zamenski-zileti-std.webp",
     "sheet": null
+  },
+  "fluval-external-filter-107": {
+    "path": "2/fluval-external-filter-107.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-107-2": {
+    "path": "2/fluval-external-filter-107-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-107-3": {
+    "path": "2/fluval-external-filter-107-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-207": {
+    "path": "2/fluval-external-filter-207.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-207-2": {
+    "path": "2/fluval-external-filter-207-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-207-3": {
+    "path": "2/fluval-external-filter-207-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-307": {
+    "path": "2/fluval-external-filter-307.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-307-2": {
+    "path": "2/fluval-external-filter-307-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-307-3": {
+    "path": "2/fluval-external-filter-307-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-407": {
+    "path": "2/fluval-external-filter-407.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-407-2": {
+    "path": "2/fluval-external-filter-407-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-external-filter-407-3": {
+    "path": "2/fluval-external-filter-407-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-fx-serija-fx-2": {
+    "path": "2/fluval-fx-serija-fx-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-fx-serija-fx-4": {
+    "path": "2/fluval-fx-serija-fx-4.webp",
+    "sheet": "variable"
+  },
+  "fluval-fx-serija-fx-6": {
+    "path": "2/fluval-fx-serija-fx-6.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-filter-ac-110": {
+    "path": "3/fluval-hang-on-filter-ac-110.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-filter-ac-20": {
+    "path": "3/fluval-hang-on-filter-ac-20.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-filter-ac-30": {
+    "path": "3/fluval-hang-on-filter-ac-30.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-filter-ac-50": {
+    "path": "3/fluval-hang-on-filter-ac-50.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-filter-ac-70": {
+    "path": "3/fluval-hang-on-filter-ac-70.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-1": {
+    "path": "3/fluval-unutra-nji-filter-u-1.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-1-2": {
+    "path": "3/fluval-unutra-nji-filter-u-1-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-2": {
+    "path": "3/fluval-unutra-nji-filter-u-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-2-2": {
+    "path": "3/fluval-unutra-nji-filter-u-2-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-3": {
+    "path": "3/fluval-unutra-nji-filter-u-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-3-2": {
+    "path": "3/fluval-unutra-nji-filter-u-3-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-4": {
+    "path": "3/fluval-unutra-nji-filter-u-4.webp",
+    "sheet": "variable"
+  },
+  "fluval-unutra-nji-filter-u-4-2": {
+    "path": "3/fluval-unutra-nji-filter-u-4-2.webp",
+    "sheet": "variable"
   },
   "frontosa-burundi-cichlid": {
     "path": "1/frontosa-burundi-cichlid.webp",
