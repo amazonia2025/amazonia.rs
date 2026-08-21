@@ -9375,6 +9375,10 @@
     "path": "3/tetra-rubin-10000-ml.webp",
     "sheet": "variable"
   },
+  "tetra-tabimin": {
+    "path": "2/tetra-tabimin.webp",
+    "sheet": "simple"
+  },
   "tetra-tec-gs45": {
     "path": "2/tetra-tec-gs45.webp",
     "sheet": "simple"
