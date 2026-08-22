@@ -2483,6 +2483,10 @@
     "path": "1/bure-dekoracija-za-akvarijum.webp",
     "sheet": null
   },
+  "cabomba-aquatica": {
+    "path": "3/cabomba-aquatica.webp",
+    "sheet": "simple"
+  },
   "calvus-black": {
     "path": "1/calvus-black.webp",
     "sheet": "simple"
@@ -4455,48 +4459,16 @@
     "path": "2/fluval-external-filter-107.webp",
     "sheet": "variable"
   },
-  "fluval-external-filter-107-2": {
-    "path": "2/fluval-external-filter-107-2.webp",
-    "sheet": "variable"
-  },
-  "fluval-external-filter-107-3": {
-    "path": "2/fluval-external-filter-107-3.webp",
-    "sheet": "variable"
-  },
   "fluval-external-filter-207": {
     "path": "2/fluval-external-filter-207.webp",
-    "sheet": "variable"
-  },
-  "fluval-external-filter-207-2": {
-    "path": "2/fluval-external-filter-207-2.webp",
-    "sheet": "variable"
-  },
-  "fluval-external-filter-207-3": {
-    "path": "2/fluval-external-filter-207-3.webp",
     "sheet": "variable"
   },
   "fluval-external-filter-307": {
     "path": "2/fluval-external-filter-307.webp",
     "sheet": "variable"
   },
-  "fluval-external-filter-307-2": {
-    "path": "2/fluval-external-filter-307-2.webp",
-    "sheet": "variable"
-  },
-  "fluval-external-filter-307-3": {
-    "path": "2/fluval-external-filter-307-3.webp",
-    "sheet": "variable"
-  },
   "fluval-external-filter-407": {
     "path": "2/fluval-external-filter-407.webp",
-    "sheet": "variable"
-  },
-  "fluval-external-filter-407-2": {
-    "path": "2/fluval-external-filter-407-2.webp",
-    "sheet": "variable"
-  },
-  "fluval-external-filter-407-3": {
-    "path": "2/fluval-external-filter-407-3.webp",
     "sheet": "variable"
   },
   "fluval-fx-serija-fx-2": {
@@ -4535,32 +4507,16 @@
     "path": "3/fluval-unutra-nji-filter-u-1.webp",
     "sheet": "variable"
   },
-  "fluval-unutra-nji-filter-u-1-2": {
-    "path": "3/fluval-unutra-nji-filter-u-1-2.webp",
-    "sheet": "variable"
-  },
   "fluval-unutra-nji-filter-u-2": {
     "path": "3/fluval-unutra-nji-filter-u-2.webp",
-    "sheet": "variable"
-  },
-  "fluval-unutra-nji-filter-u-2-2": {
-    "path": "3/fluval-unutra-nji-filter-u-2-2.webp",
     "sheet": "variable"
   },
   "fluval-unutra-nji-filter-u-3": {
     "path": "3/fluval-unutra-nji-filter-u-3.webp",
     "sheet": "variable"
   },
-  "fluval-unutra-nji-filter-u-3-2": {
-    "path": "3/fluval-unutra-nji-filter-u-3-2.webp",
-    "sheet": "variable"
-  },
   "fluval-unutra-nji-filter-u-4": {
     "path": "3/fluval-unutra-nji-filter-u-4.webp",
-    "sheet": "variable"
-  },
-  "fluval-unutra-nji-filter-u-4-2": {
-    "path": "3/fluval-unutra-nji-filter-u-4-2.webp",
     "sheet": "variable"
   },
   "frontosa-burundi-cichlid": {
@@ -5727,6 +5683,10 @@
     "path": "3/limnobium-laevigatum.webp",
     "sheet": "simple"
   },
+  "limnophila-sessiliflora": {
+    "path": "3/limnophila-sessiliflora.webp",
+    "sheet": "simple"
+  },
   "liya-wh10": {
     "path": "2/liya-wh10.webp",
     "sheet": "variable"
@@ -5741,6 +5701,10 @@
   },
   "loricaria-red": {
     "path": "2/loricaria-red.webp",
+    "sheet": "simple"
+  },
+  "ludwigia-palustris-super-red": {
+    "path": "3/ludwigia-palustris-super-red.webp",
     "sheet": "simple"
   },
   "ludwigia-repens": {
@@ -5933,6 +5897,10 @@
   },
   "maxspect-pct-g50-coral-glue-50g": {
     "path": "2/maxspect-pct-g50-coral-glue-50g.webp",
+    "sheet": "simple"
+  },
+  "mayaca-fluviatilis": {
+    "path": "3/mayaca-fluviatilis.webp",
     "sheet": "simple"
   },
   "maylandia-estherae": {
