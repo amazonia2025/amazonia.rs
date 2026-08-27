@@ -43,6 +43,22 @@
     "path": "1/aktivni-ugalj-za-akvarijum-ly-ly202-500g.webp",
     "sheet": "variable"
   },
+  "akvarijum-pravougaoni-s-d22-x-9-x-v15": {
+    "path": "1/akvarijum-pravougaoni-s-d22-x-9-x-v15.webp",
+    "sheet": "variable"
+  },
+  "akvarijum-pravougaoni-s-d24-x-10-5-x-v15": {
+    "path": "1/akvarijum-pravougaoni-s-d24-x-10-5-x-v15.webp",
+    "sheet": "variable"
+  },
+  "akvarijum-pravougaoni-s-d26-x-12-x-v15": {
+    "path": "1/akvarijum-pravougaoni-s-d26-x-12-x-v15.webp",
+    "sheet": "variable"
+  },
+  "akvarijum-pravougaoni-s-d28-x-13-5-x-v15": {
+    "path": "1/akvarijum-pravougaoni-s-d28-x-13-5-x-v15.webp",
+    "sheet": "variable"
+  },
   "akvarijum-pravougaoni-veli-ina-m-d30-x-15-x-v19": {
     "path": "2/akvarijum-pravougaoni-veli-ina-m-d30-x-15-x-v19.webp",
     "sheet": "variable"
@@ -75,44 +91,28 @@
     "path": "2/akvarijum-pravougaoni-veli-ina-m-d50-x-26-x-v33.webp",
     "sheet": "variable"
   },
-  "akvarijum-pravougaoni-veli-ina-s-d22-x-9-x-v15": {
-    "path": "3/akvarijum-pravougaoni-veli-ina-s-d22-x-9-x-v15.webp",
+  "akvarijum-u-obliku-trapeza-d29-x-17-x-v19": {
+    "path": "1/akvarijum-u-obliku-trapeza-d29-x-17-x-v19.webp",
     "sheet": "variable"
   },
-  "akvarijum-pravougaoni-veli-ina-s-d24-x-10-5-x-v15": {
-    "path": "3/akvarijum-pravougaoni-veli-ina-s-d24-x-10-5-x-v15.webp",
+  "akvarijum-u-obliku-trapeza-d32-x-19-x-v21": {
+    "path": "1/akvarijum-u-obliku-trapeza-d32-x-19-x-v21.webp",
     "sheet": "variable"
   },
-  "akvarijum-pravougaoni-veli-ina-s-d26-x-12-x-v15": {
-    "path": "3/akvarijum-pravougaoni-veli-ina-s-d26-x-12-x-v15.webp",
+  "akvarijum-u-obliku-trapeza-d35-x-21-x-v23": {
+    "path": "1/akvarijum-u-obliku-trapeza-d35-x-21-x-v23.webp",
     "sheet": "variable"
   },
-  "akvarijum-pravougaoni-veli-ina-s-d28-x-13-5-x-v15": {
-    "path": "3/akvarijum-pravougaoni-veli-ina-s-d28-x-13-5-x-v15.webp",
+  "akvarijum-u-obliku-trapeza-d38-x-23-x-v25": {
+    "path": "1/akvarijum-u-obliku-trapeza-d38-x-23-x-v25.webp",
     "sheet": "variable"
   },
-  "akvarijum-trapezd29-x-17-x-v19": {
-    "path": "3/akvarijum-trapezd29-x-17-x-v19.webp",
+  "akvarijum-u-obliku-trapeza-d41-x-25-x-v27": {
+    "path": "1/akvarijum-u-obliku-trapeza-d41-x-25-x-v27.webp",
     "sheet": "variable"
   },
-  "akvarijum-trapezd32-x-19-x-v21": {
-    "path": "3/akvarijum-trapezd32-x-19-x-v21.webp",
-    "sheet": "variable"
-  },
-  "akvarijum-trapezd35-x-21-x-v23": {
-    "path": "3/akvarijum-trapezd35-x-21-x-v23.webp",
-    "sheet": "variable"
-  },
-  "akvarijum-trapezd38-x-23-x-v25": {
-    "path": "3/akvarijum-trapezd38-x-23-x-v25.webp",
-    "sheet": "variable"
-  },
-  "akvarijum-trapezd41-x-25-x-v27": {
-    "path": "3/akvarijum-trapezd41-x-25-x-v27.webp",
-    "sheet": "variable"
-  },
-  "akvarijum-trapezd44-x-27-x-v29": {
-    "path": "3/akvarijum-trapezd44-x-27-x-v29.webp",
+  "akvarijum-u-obliku-trapeza-d44-x-27-x-v29": {
+    "path": "1/akvarijum-u-obliku-trapeza-d44-x-27-x-v29.webp",
     "sheet": "variable"
   },
   "albino-kribenzis": {
@@ -2948,7 +2948,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "1/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "3/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -4471,6 +4471,58 @@
     "path": "1/flipper-zamenski-zileti-std.webp",
     "sheet": null
   },
+  "fluval-air-101": {
+    "path": "3/fluval-air-101.webp",
+    "sheet": "variable"
+  },
+  "fluval-air-202": {
+    "path": "3/fluval-air-202.webp",
+    "sheet": "variable"
+  },
+  "fluval-air-402": {
+    "path": "3/fluval-air-402.webp",
+    "sheet": "variable"
+  },
+  "fluval-ammonia-remover-107-207": {
+    "path": "3/fluval-ammonia-remover-107-207.webp",
+    "sheet": "variable"
+  },
+  "fluval-ammonia-remover-307-407": {
+    "path": "3/fluval-ammonia-remover-307-407.webp",
+    "sheet": "variable"
+  },
+  "fluval-ammonia-remover-fx4-fx6": {
+    "path": "3/fluval-ammonia-remover-fx4-fx6.webp",
+    "sheet": "variable"
+  },
+  "fluval-aquarium-gravel-cleaner-large-60cm": {
+    "path": "3/fluval-aquarium-gravel-cleaner-large-60cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-aquarium-gravel-cleaner-medium-35-cm": {
+    "path": "3/fluval-aquarium-gravel-cleaner-medium-35-cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-aquarium-gravel-cleaner-mini-25-cm": {
+    "path": "3/fluval-aquarium-gravel-cleaner-mini-25-cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-aquarium-gravel-cleaner-small-25-cm": {
+    "path": "3/fluval-aquarium-gravel-cleaner-small-25-cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-clearmax-filter-cartridge-u-2": {
+    "path": "3/fluval-clearmax-filter-cartridge-u-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-clearmax-filter-cartridge-u-3": {
+    "path": "3/fluval-clearmax-filter-cartridge-u-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-clearmax-filter-cartridge-u-4": {
+    "path": "3/fluval-clearmax-filter-cartridge-u-4.webp",
+    "sheet": "variable"
+  },
   "fluval-external-filter-107": {
     "path": "2/fluval-external-filter-107.webp",
     "sheet": "variable"
@@ -4487,6 +4539,18 @@
     "path": "2/fluval-external-filter-407.webp",
     "sheet": "variable"
   },
+  "fluval-filterwatte-100": {
+    "path": "3/fluval-filterwatte-100.webp",
+    "sheet": "variable"
+  },
+  "fluval-filterwatte-250": {
+    "path": "3/fluval-filterwatte-250.webp",
+    "sheet": "variable"
+  },
+  "fluval-filterwatte-500": {
+    "path": "3/fluval-filterwatte-500.webp",
+    "sheet": "variable"
+  },
   "fluval-fx-serija-fx-2": {
     "path": "2/fluval-fx-serija-fx-2.webp",
     "sheet": "variable"
@@ -4497,6 +4561,30 @@
   },
   "fluval-fx-serija-fx-6": {
     "path": "2/fluval-fx-serija-fx-6.webp",
+    "sheet": "variable"
+  },
+  "fluval-gravelvac-multi-substrate-cleaner-m-l-60-cm": {
+    "path": "3/fluval-gravelvac-multi-substrate-cleaner-m-l-60-cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-gravelvac-multi-substrate-cleaner-s-m-58-cm": {
+    "path": "3/fluval-gravelvac-multi-substrate-cleaner-s-m-58-cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-breeding-box-large": {
+    "path": "1/fluval-hang-on-breeding-box-large.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-breeding-box-large-2": {
+    "path": "1/fluval-hang-on-breeding-box-large-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-breeding-box-medium": {
+    "path": "1/fluval-hang-on-breeding-box-medium.webp",
+    "sheet": "variable"
+  },
+  "fluval-hang-on-breeding-box-medium-2": {
+    "path": "1/fluval-hang-on-breeding-box-medium-2.webp",
     "sheet": "variable"
   },
   "fluval-hang-on-filter-ac-110": {
@@ -4519,6 +4607,70 @@
     "path": "3/fluval-hang-on-filter-ac-70.webp",
     "sheet": "variable"
   },
+  "fluval-hosing-bracket": {
+    "path": "3/fluval-hosing-bracket.webp",
+    "sheet": "simple"
+  },
+  "fluval-nitrite-remover-107-207": {
+    "path": "3/fluval-nitrite-remover-107-207.webp",
+    "sheet": "variable"
+  },
+  "fluval-nitrite-remover-307-407": {
+    "path": "3/fluval-nitrite-remover-307-407.webp",
+    "sheet": "variable"
+  },
+  "fluval-phosphate-remover-107-207": {
+    "path": "3/fluval-phosphate-remover-107-207.webp",
+    "sheet": "variable"
+  },
+  "fluval-phosphate-remover-307-407": {
+    "path": "3/fluval-phosphate-remover-307-407.webp",
+    "sheet": "variable"
+  },
+  "fluval-phosphate-remover-fx4-fx6": {
+    "path": "3/fluval-phosphate-remover-fx4-fx6.webp",
+    "sheet": "variable"
+  },
+  "fluval-poly-carb-cartridge-u-2": {
+    "path": "3/fluval-poly-carb-cartridge-u-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-poly-carb-cartridge-u-3": {
+    "path": "3/fluval-poly-carb-cartridge-u-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-poly-carb-cartridge-u-4": {
+    "path": "3/fluval-poly-carb-cartridge-u-4.webp",
+    "sheet": "variable"
+  },
+  "fluval-pre-filter-750-g": {
+    "path": "3/fluval-pre-filter-750-g.webp",
+    "sheet": "simple"
+  },
+  "fluval-pro-vac": {
+    "path": "3/fluval-pro-vac.webp",
+    "sheet": "simple"
+  },
+  "fluval-submersible-digital-thermometer": {
+    "path": "3/fluval-submersible-digital-thermometer.webp",
+    "sheet": "simple"
+  },
+  "fluval-underwater-filter-foam-pad-u-1": {
+    "path": "3/fluval-underwater-filter-foam-pad-u-1.webp",
+    "sheet": "variable"
+  },
+  "fluval-underwater-filter-foam-pad-u-2": {
+    "path": "3/fluval-underwater-filter-foam-pad-u-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-underwater-filter-foam-pad-u-3": {
+    "path": "3/fluval-underwater-filter-foam-pad-u-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-underwater-filter-foam-pad-u-4": {
+    "path": "3/fluval-underwater-filter-foam-pad-u-4.webp",
+    "sheet": "variable"
+  },
   "fluval-unutra-nji-filter-u-1": {
     "path": "3/fluval-unutra-nji-filter-u-1.webp",
     "sheet": "variable"
@@ -4534,6 +4686,10 @@
   "fluval-unutra-nji-filter-u-4": {
     "path": "3/fluval-unutra-nji-filter-u-4.webp",
     "sheet": "variable"
+  },
+  "fluval-wireless-2-in-1-digital-thermometer": {
+    "path": "3/fluval-wireless-2-in-1-digital-thermometer.webp",
+    "sheet": "simple"
   },
   "frontosa-burundi-cichlid": {
     "path": "1/frontosa-burundi-cichlid.webp",
