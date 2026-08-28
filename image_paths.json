@@ -4495,6 +4495,14 @@
     "path": "3/fluval-ammonia-remover-fx4-fx6.webp",
     "sheet": "variable"
   },
+  "fluval-ammonia-remover-insert-ac-20-ac-30": {
+    "path": "3/fluval-ammonia-remover-insert-ac-20-ac-30.webp",
+    "sheet": "variable"
+  },
+  "fluval-ammonia-remover-insert-ac-50": {
+    "path": "3/fluval-ammonia-remover-insert-ac-50.webp",
+    "sheet": "variable"
+  },
   "fluval-aquarium-gravel-cleaner-large-60cm": {
     "path": "3/fluval-aquarium-gravel-cleaner-large-60cm.webp",
     "sheet": "variable"
@@ -4509,6 +4517,26 @@
   },
   "fluval-aquarium-gravel-cleaner-small-25-cm": {
     "path": "3/fluval-aquarium-gravel-cleaner-small-25-cm.webp",
+    "sheet": "variable"
+  },
+  "fluval-bio-foam-ac-20": {
+    "path": "3/fluval-bio-foam-ac-20.webp",
+    "sheet": "variable"
+  },
+  "fluval-bio-foam-ac-30": {
+    "path": "3/fluval-bio-foam-ac-30.webp",
+    "sheet": "variable"
+  },
+  "fluval-bio-foam-ac-50": {
+    "path": "3/fluval-bio-foam-ac-50.webp",
+    "sheet": "variable"
+  },
+  "fluval-biomax-insert-ac-20-ac-30": {
+    "path": "3/fluval-biomax-insert-ac-20-ac-30.webp",
+    "sheet": "variable"
+  },
+  "fluval-biomax-insert-ac-50": {
+    "path": "3/fluval-biomax-insert-ac-50.webp",
     "sheet": "variable"
   },
   "fluval-clearmax-filter-cartridge-u-2": {
@@ -4537,6 +4565,18 @@
   },
   "fluval-external-filter-407": {
     "path": "2/fluval-external-filter-407.webp",
+    "sheet": "variable"
+  },
+  "fluval-filter-media-maintenance-kit-ac-20": {
+    "path": "3/fluval-filter-media-maintenance-kit-ac-20.webp",
+    "sheet": "variable"
+  },
+  "fluval-filter-media-maintenance-kit-ac-30": {
+    "path": "3/fluval-filter-media-maintenance-kit-ac-30.webp",
+    "sheet": "variable"
+  },
+  "fluval-filter-media-maintenance-kit-ac-50": {
+    "path": "3/fluval-filter-media-maintenance-kit-ac-50.webp",
     "sheet": "variable"
   },
   "fluval-filterwatte-100": {
@@ -4618,6 +4658,10 @@
   "fluval-nitrite-remover-307-407": {
     "path": "3/fluval-nitrite-remover-307-407.webp",
     "sheet": "variable"
+  },
+  "fluval-pf2-fish-feeder": {
+    "path": "3/fluval-pf2-fish-feeder.webp",
+    "sheet": "simple"
   },
   "fluval-phosphate-remover-107-207": {
     "path": "3/fluval-phosphate-remover-107-207.webp",
@@ -6001,6 +6045,66 @@
   },
   "mantis-tornado-skimmer-tornado-180": {
     "path": "2/mantis-tornado-skimmer-tornado-180.webp",
+    "sheet": "variable"
+  },
+  "marina-2-in-1-fish-hatchery": {
+    "path": "3/marina-2-in-1-fish-hatchery.webp",
+    "sheet": "simple"
+  },
+  "marina-3-in-1-breeding-trap": {
+    "path": "3/marina-3-in-1-breeding-trap.webp",
+    "sheet": "simple"
+  },
+  "marina-algae-magnet-large": {
+    "path": "3/marina-algae-magnet-large.webp",
+    "sheet": "variable"
+  },
+  "marina-algae-magnet-medium": {
+    "path": "3/marina-algae-magnet-medium.webp",
+    "sheet": "variable"
+  },
+  "marina-algae-magnet-small": {
+    "path": "3/marina-algae-magnet-small.webp",
+    "sheet": "variable"
+  },
+  "marina-aqua-glass-cleaning-kit": {
+    "path": "3/marina-aqua-glass-cleaning-kit.webp",
+    "sheet": "simple"
+  },
+  "marina-betta-waste-remover": {
+    "path": "3/marina-betta-waste-remover.webp",
+    "sheet": "simple"
+  },
+  "marina-fish-net-breeder": {
+    "path": "3/marina-fish-net-breeder.webp",
+    "sheet": "simple"
+  },
+  "marina-multi-breed-5-way-trap": {
+    "path": "3/marina-multi-breed-5-way-trap.webp",
+    "sheet": "simple"
+  },
+  "marina-nylon-fish-net-10-cm": {
+    "path": "3/marina-nylon-fish-net-10-cm.webp",
+    "sheet": "variable"
+  },
+  "marina-nylon-fish-net-12-5-cm": {
+    "path": "3/marina-nylon-fish-net-12-5-cm.webp",
+    "sheet": "variable"
+  },
+  "marina-nylon-fish-net-15-cm": {
+    "path": "3/marina-nylon-fish-net-15-cm.webp",
+    "sheet": "variable"
+  },
+  "marina-nylon-fish-net-20-cm": {
+    "path": "3/marina-nylon-fish-net-20-cm.webp",
+    "sheet": "variable"
+  },
+  "marina-nylon-fish-net-25-cm": {
+    "path": "3/marina-nylon-fish-net-25-cm.webp",
+    "sheet": "variable"
+  },
+  "marina-nylon-fish-net-7-5-cm": {
+    "path": "3/marina-nylon-fish-net-7-5-cm.webp",
     "sheet": "variable"
   },
   "mastacembelus-eel": {
