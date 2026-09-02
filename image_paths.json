@@ -9515,6 +9515,10 @@
     "path": "3/tetra-cichlid-sticks-10000-ml.webp",
     "sheet": "variable"
   },
+  "tetra-cichlid-sticks-250-ml": {
+    "path": "3/tetra-cichlid-sticks-250-ml.webp",
+    "sheet": "simple"
+  },
   "tetra-discus-100-ml": {
     "path": "3/tetra-discus-100-ml.webp",
     "sheet": "variable"
@@ -9631,6 +9635,10 @@
     "path": "2/tetra-ludwigia-s-15-cm.webp",
     "sheet": "variable"
   },
+  "tetra-min-10-l": {
+    "path": "3/tetra-min-10-l.webp",
+    "sheet": "variable"
+  },
   "tetra-min-100-ml": {
     "path": "2/tetra-min-100-ml.webp",
     "sheet": "simple"
@@ -9639,9 +9647,9 @@
     "path": "3/tetra-min-1000-ml-rinfuz.webp",
     "sheet": "variable"
   },
-  "tetra-min-10000-ml": {
-    "path": "3/tetra-min-10000-ml.webp",
-    "sheet": "variable"
+  "tetra-min-250-ml": {
+    "path": "3/tetra-min-250-ml.webp",
+    "sheet": "simple"
   },
   "tetra-min-granule-10-l": {
     "path": "2/tetra-min-granule-10-l.webp",
@@ -9715,8 +9723,20 @@
     "path": "2/tetra-pro-colour-crisps-10-l.webp",
     "sheet": "variable"
   },
+  "tetra-pro-colour-crisps-100-ml": {
+    "path": "3/tetra-pro-colour-crisps-100-ml.webp",
+    "sheet": "simple"
+  },
   "tetra-pro-colour-crisps-1l-rinfuz": {
     "path": "2/tetra-pro-colour-crisps-1l-rinfuz.webp",
+    "sheet": "variable"
+  },
+  "tetra-pro-energy-100-ml": {
+    "path": "3/tetra-pro-energy-100-ml.webp",
+    "sheet": "simple"
+  },
+  "tetra-rubin-10-l": {
+    "path": "3/tetra-rubin-10-l.webp",
     "sheet": "variable"
   },
   "tetra-rubin-100-ml": {
@@ -9725,10 +9745,6 @@
   },
   "tetra-rubin-1000-ml-rinfuz": {
     "path": "3/tetra-rubin-1000-ml-rinfuz.webp",
-    "sheet": "variable"
-  },
-  "tetra-rubin-10000-ml": {
-    "path": "3/tetra-rubin-10000-ml.webp",
     "sheet": "variable"
   },
   "tetra-tabimin": {
@@ -9741,6 +9757,14 @@
   },
   "tetra-tec-sb45": {
     "path": "2/tetra-tec-sb45.webp",
+    "sheet": "simple"
+  },
+  "tetra-wafer-mix-100-ml": {
+    "path": "3/tetra-wafer-mix-100-ml.webp",
+    "sheet": "simple"
+  },
+  "tetrafauna-reptomin-sticks-100-ml": {
+    "path": "3/tetrafauna-reptomin-sticks-100-ml.webp",
     "sheet": "simple"
   },
   "tetratec-ht-100-w-do-100-l": {
