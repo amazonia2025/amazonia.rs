@@ -5903,6 +5903,30 @@
     "path": "3/limnophila-sessiliflora.webp",
     "sheet": "simple"
   },
+  "liya-aquarium-net-breeder-ly-4701": {
+    "path": "3/liya-aquarium-net-breeder-ly-4701.webp",
+    "sheet": "variable"
+  },
+  "liya-aquarium-net-breeder-ly-4702": {
+    "path": "3/liya-aquarium-net-breeder-ly-4702.webp",
+    "sheet": "variable"
+  },
+  "liya-glass-ring-250-g": {
+    "path": "3/liya-glass-ring-250-g.webp",
+    "sheet": "variable"
+  },
+  "liya-glass-ring-500-g": {
+    "path": "3/liya-glass-ring-500-g.webp",
+    "sheet": "variable"
+  },
+  "liya-mrestilica-ly-8001": {
+    "path": "3/liya-mrestilica-ly-8001.webp",
+    "sheet": "variable"
+  },
+  "liya-mrestilica-ly-8002": {
+    "path": "3/liya-mrestilica-ly-8002.webp",
+    "sheet": "variable"
+  },
   "liya-wh10": {
     "path": "2/liya-wh10.webp",
     "sheet": "variable"
@@ -5913,6 +5937,14 @@
   },
   "liya-wh10-m": {
     "path": "2/liya-wh10-m.webp",
+    "sheet": "variable"
+  },
+  "liya-zeolite-ly-207-250-g": {
+    "path": "3/liya-zeolite-ly-207-250-g.webp",
+    "sheet": "variable"
+  },
+  "liya-zeolite-ly-208-500-g": {
+    "path": "3/liya-zeolite-ly-208-500-g.webp",
     "sheet": "variable"
   },
   "loricaria-red": {
@@ -7719,6 +7751,10 @@
     "path": "2/seachem-cichlid-lake-salt-500-g.webp",
     "sheet": null
   },
+  "seachem-clarity-100-ml": {
+    "path": "3/seachem-clarity-100-ml.webp",
+    "sheet": "variable"
+  },
   "seachem-clarity-250-ml": {
     "path": "2/seachem-clarity-250-ml.webp",
     "sheet": "variable"
@@ -7771,12 +7807,20 @@
     "path": "2/seachem-flourish-500-ml.webp",
     "sheet": "variable"
   },
+  "seachem-flourish-advance-100-ml": {
+    "path": "3/seachem-flourish-advance-100-ml.webp",
+    "sheet": "variable"
+  },
   "seachem-flourish-advance-250-ml": {
     "path": "2/seachem-flourish-advance-250-ml.webp",
     "sheet": "variable"
   },
   "seachem-flourish-advance-500-ml": {
     "path": "2/seachem-flourish-advance-500-ml.webp",
+    "sheet": "variable"
+  },
+  "seachem-flourish-excel-100-ml": {
+    "path": "3/seachem-flourish-excel-100-ml.webp",
     "sheet": "variable"
   },
   "seachem-flourish-excel-250-ml": {
@@ -7799,12 +7843,20 @@
     "path": "2/seachem-flourish-iron-500-ml.webp",
     "sheet": "variable"
   },
+  "seachem-flourish-nitrogen-100-ml": {
+    "path": "3/seachem-flourish-nitrogen-100-ml.webp",
+    "sheet": "variable"
+  },
   "seachem-flourish-nitrogen-250-ml": {
     "path": "2/seachem-flourish-nitrogen-250-ml.webp",
     "sheet": "variable"
   },
   "seachem-flourish-nitrogen-500-ml": {
     "path": "2/seachem-flourish-nitrogen-500-ml.webp",
+    "sheet": "variable"
+  },
+  "seachem-flourish-phosphorus-100-ml": {
+    "path": "3/seachem-flourish-phosphorus-100-ml.webp",
     "sheet": "variable"
   },
   "seachem-flourish-phosphorus-250-ml": {
@@ -7975,8 +8027,16 @@
     "path": "2/seachem-safe-50-g.webp",
     "sheet": null
   },
+  "seachem-stability-100-ml": {
+    "path": "3/seachem-stability-100-ml.webp",
+    "sheet": "variable"
+  },
   "seachem-stability-250-ml": {
     "path": "2/seachem-stability-250-ml.webp",
+    "sheet": "variable"
+  },
+  "seachem-stability-50-ml": {
+    "path": "3/seachem-stability-50-ml.webp",
     "sheet": "variable"
   },
   "seachem-stability-500-ml": {
@@ -8531,6 +8591,10 @@
     "path": "2/sera-toxivec-2500-ml.webp",
     "sheet": "variable"
   },
+  "sera-toxivec-50-ml": {
+    "path": "3/sera-toxivec-50-ml.webp",
+    "sheet": "variable"
+  },
   "sera-vipan-baby-50-ml": {
     "path": "2/sera-vipan-baby-50-ml.webp",
     "sheet": "simple"
@@ -8863,18 +8927,6 @@
     "path": "2/sobo-al-cob-al-780cob-32w-2.webp",
     "sheet": "variable"
   },
-  "sobo-ap-ap-200-1-izlaz": {
-    "path": "2/sobo-ap-ap-200-1-izlaz.webp",
-    "sheet": "variable"
-  },
-  "sobo-ap-ap-300-1-izlaz": {
-    "path": "2/sobo-ap-ap-300-1-izlaz.webp",
-    "sheet": "variable"
-  },
-  "sobo-ap-ap-500-2-izlaza": {
-    "path": "2/sobo-ap-ap-500-2-izlaza.webp",
-    "sheet": "variable"
-  },
   "sobo-ff-ff-1303-1000l-h": {
     "path": "2/sobo-ff-ff-1303-1000l-h.webp",
     "sheet": "variable"
@@ -9051,6 +9103,18 @@
     "path": "2/sobo-magnet-plivaju-i-sb-bmin-3.webp",
     "sheet": "variable"
   },
+  "sobo-mini-led-lampa-sd-10w": {
+    "path": "3/sobo-mini-led-lampa-sd-10w.webp",
+    "sheet": "variable"
+  },
+  "sobo-mini-led-lampa-sd-6w": {
+    "path": "3/sobo-mini-led-lampa-sd-6w.webp",
+    "sheet": "variable"
+  },
+  "sobo-mini-led-lampa-sd-9w": {
+    "path": "3/sobo-mini-led-lampa-sd-9w.webp",
+    "sheet": "variable"
+  },
   "sobo-mini-magnet-mini-l": {
     "path": "2/sobo-mini-magnet-mini-l.webp",
     "sheet": "variable"
@@ -9085,6 +9149,14 @@
   },
   "sobo-mini-magnet-mini-s-3": {
     "path": "2/sobo-mini-magnet-mini-s-3.webp",
+    "sheet": "variable"
+  },
+  "sobo-pumpa-1-izlaz": {
+    "path": "3/sobo-pumpa-1-izlaz.webp",
+    "sheet": "variable"
+  },
+  "sobo-pumpa-2-izlaza": {
+    "path": "3/sobo-pumpa-2-izlaza.webp",
     "sheet": "variable"
   },
   "sobo-sb-948": {
@@ -9161,6 +9233,46 @@
   },
   "sobo-sb-sb-533-3": {
     "path": "2/sobo-sb-sb-533-3.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-filter-fe-1502-1200l-h": {
+    "path": "3/sobo-unutra-nji-filter-fe-1502-1200l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-filter-fe-1503-1200l-h": {
+    "path": "3/sobo-unutra-nji-filter-fe-1503-1200l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-filter-fe-1504-1200l-h": {
+    "path": "3/sobo-unutra-nji-filter-fe-1504-1200l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-filter-fk-1502-1800l-h": {
+    "path": "3/sobo-unutra-nji-filter-fk-1502-1800l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-filter-fk-1503-2800l-h": {
+    "path": "3/sobo-unutra-nji-filter-fk-1503-2800l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-filter-fk-1504-2800l-h": {
+    "path": "3/sobo-unutra-nji-filter-fk-1504-2800l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-korner-filter-wp-505-c-500l-h": {
+    "path": "3/sobo-unutra-nji-korner-filter-wp-505-c-500l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-korner-filter-wp-707-c-650l-h": {
+    "path": "3/sobo-unutra-nji-korner-filter-wp-707-c-650l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-korner-filter-wp-808-c-650l-h": {
+    "path": "3/sobo-unutra-nji-korner-filter-wp-808-c-650l-h.webp",
+    "sheet": "variable"
+  },
+  "sobo-unutra-nji-korner-filter-wp-909-c-650l-h": {
+    "path": "3/sobo-unutra-nji-korner-filter-wp-909-c-650l-h.webp",
     "sheet": "variable"
   },
   "sobo-uv-uv-001-8w": {
