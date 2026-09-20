@@ -2399,6 +2399,10 @@
     "path": "1/bio-ball-xy-260.webp",
     "sheet": "simple"
   },
+  "bio-ball-xy260": {
+    "path": "3/bio-ball-xy260.webp",
+    "sheet": "simple"
+  },
   "black-cherry-oranda": {
     "path": "1/black-cherry-oranda.webp",
     "sheet": "simple"
@@ -3666,6 +3670,10 @@
   "easy-life-easycarbo-500-ml": {
     "path": "1/easy-life-easycarbo-500-ml.webp",
     "sheet": "variable"
+  },
+  "easy-life-easyneo-100ml": {
+    "path": "3/easy-life-easyneo-100ml.webp",
+    "sheet": "simple"
   },
   "easy-life-easystart-100-ml": {
     "path": "1/easy-life-easystart-100-ml.webp",
@@ -7783,6 +7791,10 @@
     "path": "2/seachem-american-cichlid-salt-250-g.webp",
     "sheet": null
   },
+  "seachem-amguard-250-ml": {
+    "path": "3/seachem-amguard-250-ml.webp",
+    "sheet": "simple"
+  },
   "seachem-ammonia-alert": {
     "path": "2/seachem-ammonia-alert.webp",
     "sheet": "simple"
@@ -8587,6 +8599,10 @@
     "path": "2/sera-siporax-mini-professional.webp",
     "sheet": "simple"
   },
+  "sera-siporax-nitrat-minus-145g": {
+    "path": "3/sera-siporax-nitrat-minus-145g.webp",
+    "sheet": "simple"
+  },
   "sera-siporax-professional-1000-ml": {
     "path": "2/sera-siporax-professional-1000-ml.webp",
     "sheet": "variable"
@@ -8681,6 +8697,10 @@
   },
   "sera-x-feeder-automatska-hranilica-za-ribice": {
     "path": "2/sera-x-feeder-automatska-hranilica-za-ribice.webp",
+    "sheet": "simple"
+  },
+  "sera-xs-feeder": {
+    "path": "3/sera-xs-feeder.webp",
     "sheet": "simple"
   },
   "sewellia-lineolata": {
@@ -9002,6 +9022,10 @@
   "sobo-fg-fg-1204": {
     "path": "2/sobo-fg-fg-1204.webp",
     "sheet": "variable"
+  },
+  "sobo-fountain-kits-ft100": {
+    "path": "3/sobo-fountain-kits-ft100.webp",
+    "sheet": "simple"
   },
   "sobo-hc-hc-100w": {
     "path": "2/sobo-hc-hc-100w.webp",
@@ -9647,6 +9671,10 @@
     "path": "2/tetra-aqua-art-explorer-cabinet-30-60l-black.webp",
     "sheet": "simple"
   },
+  "tetra-aqua-safe-100ml": {
+    "path": "3/tetra-aqua-safe-100ml.webp",
+    "sheet": "simple"
+  },
   "tetra-as40": {
     "path": "2/tetra-as40.webp",
     "sheet": "simple"
@@ -9698,6 +9726,10 @@
   "tetra-discus-250-ml": {
     "path": "3/tetra-discus-250-ml.webp",
     "sheet": "variable"
+  },
+  "tetra-easy-balance-100ml": {
+    "path": "3/tetra-easy-balance-100ml.webp",
+    "sheet": "simple"
   },
   "tetra-easy-crystal-filterpack-250-300": {
     "path": "2/tetra-easy-crystal-filterpack-250-300.webp",
