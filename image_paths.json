@@ -351,6 +351,10 @@
     "path": "3/anubias-barteri-nana.webp",
     "sheet": "simple"
   },
+  "anubias-barteri-nana-mini": {
+    "path": "3/anubias-barteri-nana-mini.webp",
+    "sheet": "simple"
+  },
   "anubias-barteri-var-barteri": {
     "path": "3/anubias-barteri-var-barteri.webp",
     "sheet": "simple"
@@ -2351,6 +2355,10 @@
     "path": "1/auratus-cichlid.webp",
     "sheet": "simple"
   },
+  "bacopa-australis": {
+    "path": "2/bacopa-australis.webp",
+    "sheet": "simple"
+  },
   "bacopa-caroliniana": {
     "path": "3/bacopa-caroliniana.webp",
     "sheet": "simple"
@@ -2485,6 +2493,10 @@
   },
   "brod-za-akvarijum": {
     "path": "1/brod-za-akvarijum.webp",
+    "sheet": "simple"
+  },
+  "bucephalandra-sp-copper": {
+    "path": "3/bucephalandra-sp-copper.webp",
     "sheet": "simple"
   },
   "bucephalandra-sp-red": {
@@ -3823,12 +3835,16 @@
     "path": "1/echidna-nebulosa.webp",
     "sheet": "simple"
   },
+  "echinodorus-osiris": {
+    "path": "2/echinodorus-osiris.webp",
+    "sheet": "simple"
+  },
   "echinodorus-ozelot": {
     "path": "1/echinodorus-ozelot.webp",
     "sheet": "simple"
   },
-  "echinodorus-red-diamond": {
-    "path": "3/echinodorus-red-diamond.webp",
+  "echinodorus-rubin": {
+    "path": "3/echinodorus-rubin.webp",
     "sheet": "simple"
   },
   "ecotech-ai-prime-hanging-kit": {
@@ -4395,6 +4411,10 @@
     "path": "1/farlowella-acus.webp",
     "sheet": null
   },
+  "fissidens-nobilis-gigantea": {
+    "path": "3/fissidens-nobilis-gigantea.webp",
+    "sheet": "simple"
+  },
   "flipper-cleaner-flip": {
     "path": "1/flipper-cleaner-flip.webp",
     "sheet": null
@@ -4787,6 +4807,10 @@
     "path": "1/helialux-spectrum-splitter.webp",
     "sheet": "simple"
   },
+  "hemianthus-callitrichoides": {
+    "path": "3/hemianthus-callitrichoides.webp",
+    "sheet": "simple"
+  },
   "hemichromis-lifalili": {
     "path": "1/hemichromis-lifalili.webp",
     "sheet": "simple"
@@ -4819,12 +4843,24 @@
     "path": "1/hydrocotyle-tripartita.webp",
     "sheet": "simple"
   },
+  "hygrophila-angustifolia": {
+    "path": "3/hygrophila-angustifolia.webp",
+    "sheet": "simple"
+  },
+  "hygrophila-corymbosa": {
+    "path": "3/hygrophila-corymbosa.webp",
+    "sheet": "simple"
+  },
   "hygrophila-difformis": {
     "path": "3/hygrophila-difformis.webp",
     "sheet": "simple"
   },
   "hygrophila-pinnatifida": {
     "path": "3/hygrophila-pinnatifida.webp",
+    "sheet": "simple"
+  },
+  "hygrophila-polysperma-sunset": {
+    "path": "3/hygrophila-polysperma-sunset.webp",
     "sheet": "simple"
   },
   "hygrophilia-sallicifolia": {
@@ -5947,6 +5983,10 @@
     "path": "3/liya-zeolite-ly-208-500-g.webp",
     "sheet": "variable"
   },
+  "lobelia-cardinalis": {
+    "path": "3/lobelia-cardinalis.webp",
+    "sheet": "simple"
+  },
   "loricaria-red": {
     "path": "2/loricaria-red.webp",
     "sheet": "simple"
@@ -6237,6 +6277,10 @@
   },
   "microdevario-kubotai": {
     "path": "2/microdevario-kubotai.webp",
+    "sheet": "simple"
+  },
+  "micromeria-brownei": {
+    "path": "3/micromeria-brownei.webp",
     "sheet": "simple"
   },
   "microsorum-pteropus": {
@@ -6801,6 +6845,10 @@
   },
   "poecilia-sphenops-var": {
     "path": "2/poecilia-sphenops-var.webp",
+    "sheet": "simple"
+  },
+  "pogostemon-octopus": {
+    "path": "3/pogostemon-octopus.webp",
     "sheet": "simple"
   },
   "pomacanthus-imperator": {
@@ -7621,6 +7669,10 @@
   },
   "saulosi-cichlids": {
     "path": "2/saulosi-cichlids.webp",
+    "sheet": "simple"
+  },
+  "saururus-cernuus": {
+    "path": "3/saururus-cernuus.webp",
     "sheet": "simple"
   },
   "savitljivi-raspr-iva-vazduha-ly039-20cm": {
