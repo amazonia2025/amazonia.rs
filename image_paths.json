@@ -2964,7 +2964,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "3/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -4559,6 +4559,18 @@
     "path": "3/fluval-bio-foam-ac-50.webp",
     "sheet": "variable"
   },
+  "fluval-bio-foam-max-107": {
+    "path": "2/fluval-bio-foam-max-107.webp",
+    "sheet": "variable"
+  },
+  "fluval-bio-foam-max-207-307": {
+    "path": "3/fluval-bio-foam-max-207-307.webp",
+    "sheet": "variable"
+  },
+  "fluval-bio-foam-max-407": {
+    "path": "3/fluval-bio-foam-max-407.webp",
+    "sheet": "variable"
+  },
   "fluval-biomax-insert-ac-20-ac-30": {
     "path": "3/fluval-biomax-insert-ac-20-ac-30.webp",
     "sheet": "variable"
@@ -4726,6 +4738,18 @@
   "fluval-submersible-digital-thermometer": {
     "path": "3/fluval-submersible-digital-thermometer.webp",
     "sheet": "simple"
+  },
+  "fluval-underwater-filter-cartridge-u-2": {
+    "path": "3/fluval-underwater-filter-cartridge-u-2.webp",
+    "sheet": "variable"
+  },
+  "fluval-underwater-filter-cartridge-u-3": {
+    "path": "3/fluval-underwater-filter-cartridge-u-3.webp",
+    "sheet": "variable"
+  },
+  "fluval-underwater-filter-cartridge-u-4": {
+    "path": "3/fluval-underwater-filter-cartridge-u-4.webp",
+    "sheet": "variable"
   },
   "fluval-underwater-filter-foam-pad-u-1": {
     "path": "3/fluval-underwater-filter-foam-pad-u-1.webp",
