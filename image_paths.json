@@ -2219,6 +2219,10 @@
     "path": "3/atman-hf-hf-0600.webp",
     "sheet": "variable"
   },
+  "atman-kp-200": {
+    "path": "3/atman-kp-200.webp",
+    "sheet": "simple"
+  },
   "atman-lg-lgm-lg-450": {
     "path": "3/atman-lg-lgm-lg-450.webp",
     "sheet": "variable"
@@ -4875,6 +4879,10 @@
     "path": "1/hydrocotyle-tripartita.webp",
     "sheet": "simple"
   },
+  "hydrocotyle-verticillata": {
+    "path": "3/hydrocotyle-verticillata.webp",
+    "sheet": "simple"
+  },
   "hygrophila-angustifolia": {
     "path": "3/hygrophila-angustifolia.webp",
     "sheet": "simple"
@@ -6025,6 +6033,10 @@
   },
   "ludwigia-palustris-super-red": {
     "path": "3/ludwigia-palustris-super-red.webp",
+    "sheet": "simple"
+  },
+  "ludwigia-red-skeleton": {
+    "path": "3/ludwigia-red-skeleton.webp",
     "sheet": "simple"
   },
   "ludwigia-repens": {
