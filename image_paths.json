@@ -991,6 +991,10 @@
     "path": "1/aquaforest-n-boost-250ml.webp",
     "sheet": "simple"
   },
+  "aquaforest-nano-tank": {
+    "path": "3/aquaforest-nano-tank.webp",
+    "sheet": "simple"
+  },
   "aquaforest-nitraphos-minus-250-ml": {
     "path": "1/aquaforest-nitraphos-minus-250-ml.webp",
     "sheet": "variable"
@@ -6718,6 +6722,122 @@
   "oase-zastitna-podloga-flis-2x75m": {
     "path": "2/oase-zastitna-podloga-flis-2x75m.webp",
     "sheet": null
+  },
+  "ocean-nutrition-algae-wafers": {
+    "path": "3/ocean-nutrition-algae-wafers.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-artemia-brine-shrimp": {
+    "path": "3/ocean-nutrition-artemia-brine-shrimp.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-bloodworms": {
+    "path": "3/ocean-nutrition-bloodworms.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-brine-shrimp-plus-flakes-34-g": {
+    "path": "3/ocean-nutrition-brine-shrimp-plus-flakes-34-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-brine-shrimp-plus-flakes-71-g": {
+    "path": "3/ocean-nutrition-brine-shrimp-plus-flakes-71-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-cichlid-omni-flakes": {
+    "path": "3/ocean-nutrition-cichlid-omni-flakes.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-cichlid-vegi-flakes": {
+    "path": "3/ocean-nutrition-cichlid-vegi-flakes.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-community-formula-flakes-34-g": {
+    "path": "3/ocean-nutrition-community-formula-flakes-34-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-community-formula-flakes-71-g": {
+    "path": "3/ocean-nutrition-community-formula-flakes-71-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-cyclops": {
+    "path": "3/ocean-nutrition-cyclops.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-discus-flakes": {
+    "path": "3/ocean-nutrition-discus-flakes.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-formula-one-flakes-34-g": {
+    "path": "3/ocean-nutrition-formula-one-flakes-34-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-formula-one-flakes-71-g": {
+    "path": "3/ocean-nutrition-formula-one-flakes-71-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-formula-one-marine-pellets-med": {
+    "path": "3/ocean-nutrition-formula-one-marine-pellets-med.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-formula-two-flakes-34-g": {
+    "path": "3/ocean-nutrition-formula-two-flakes-34-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-formula-two-flakes-71-g": {
+    "path": "3/ocean-nutrition-formula-two-flakes-71-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-formula-two-marine-pellets-med": {
+    "path": "3/ocean-nutrition-formula-two-marine-pellets-med.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-goldfish-formula-flakes": {
+    "path": "3/ocean-nutrition-goldfish-formula-flakes.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-green-marine-algae-sm": {
+    "path": "3/ocean-nutrition-green-marine-algae-sm.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-hufa-enriched-artemia": {
+    "path": "3/ocean-nutrition-hufa-enriched-artemia.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-insectpro-flakes": {
+    "path": "3/ocean-nutrition-insectpro-flakes.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-mysis": {
+    "path": "3/ocean-nutrition-mysis.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-reef-flakes-34-g": {
+    "path": "3/ocean-nutrition-reef-flakes-34-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-reef-flakes-71-g": {
+    "path": "3/ocean-nutrition-reef-flakes-71-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-rotifers": {
+    "path": "3/ocean-nutrition-rotifers.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-spirulina-flakes-34-g": {
+    "path": "3/ocean-nutrition-spirulina-flakes-34-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-spirulina-flakes-71-g": {
+    "path": "3/ocean-nutrition-spirulina-flakes-71-g.webp",
+    "sheet": "variable"
+  },
+  "ocean-nutrition-tropical-wafers": {
+    "path": "3/ocean-nutrition-tropical-wafers.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-tubifex": {
+    "path": "3/ocean-nutrition-tubifex.webp",
+    "sheet": "simple"
   },
   "odesa-barbus": {
     "path": "2/odesa-barbus.webp",
