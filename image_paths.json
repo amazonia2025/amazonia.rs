@@ -2579,6 +2579,10 @@
     "path": "1/ceratophyllum-demersum.webp",
     "sheet": "simple"
   },
+  "ceratopteris-thalictroides": {
+    "path": "3/ceratopteris-thalictroides.webp",
+    "sheet": "simple"
+  },
   "chelmon-rostratus": {
     "path": "1/chelmon-rostratus.webp",
     "sheet": "simple"
@@ -6365,6 +6369,10 @@
   },
   "moli-mix": {
     "path": "2/moli-mix.webp",
+    "sheet": "simple"
+  },
+  "monoselenium-tenerum": {
+    "path": "3/monoselenium-tenerum.webp",
     "sheet": "simple"
   },
   "morska-zvezda": {
