@@ -271,6 +271,14 @@
     "path": "1/amazonia-boca-za-co2-5kg.webp",
     "sheet": null
   },
+  "amazonia-crni-pesak-za-akvarijum-10-kg": {
+    "path": "3/amazonia-crni-pesak-za-akvarijum-10-kg.webp",
+    "sheet": "variable"
+  },
+  "amazonia-crni-pesak-za-akvarijum-5-kg": {
+    "path": "3/amazonia-crni-pesak-za-akvarijum-5-kg.webp",
+    "sheet": "variable"
+  },
   "amazonia-pesak-za-akvarijum-0-17mm-10-kg": {
     "path": "2/amazonia-pesak-za-akvarijum-0-17mm-10-kg.webp",
     "sheet": "variable"
@@ -423,10 +431,6 @@
     "path": "1/aqua-illumination-nero-nero-7.webp",
     "sheet": "variable"
   },
-  "aqua-ljunak-kvarcni-2-3-mm-crni": {
-    "path": "1/aqua-ljunak-kvarcni-2-3-mm-crni.webp",
-    "sheet": "simple"
-  },
   "aqua-ljunak-kvarcni-multicolor-2-3-mm": {
     "path": "2/aqua-ljunak-kvarcni-multicolor-2-3-mm.webp",
     "sheet": "simple"
@@ -435,12 +439,28 @@
     "path": "2/aqua-ljunak-kvarcni-natural-2-3-mm.webp",
     "sheet": "simple"
   },
+  "aqua-ljunak-re-ni-0-8-1-2-mm-2-kg": {
+    "path": "3/aqua-ljunak-re-ni-0-8-1-2-mm-2-kg.webp",
+    "sheet": "variable"
+  },
+  "aqua-ljunak-re-ni-0-8-1-2-mm-5-kg": {
+    "path": "3/aqua-ljunak-re-ni-0-8-1-2-mm-5-kg.webp",
+    "sheet": "variable"
+  },
   "aqua-ljunak-re-ni-1-2-5-mm-2-kg": {
     "path": "2/aqua-ljunak-re-ni-1-2-5-mm-2-kg.webp",
     "sheet": "variable"
   },
   "aqua-ljunak-re-ni-1-2-5-mm-5-kg": {
     "path": "2/aqua-ljunak-re-ni-1-2-5-mm-5-kg.webp",
+    "sheet": "variable"
+  },
+  "aqua-ljunak-re-ni-2-3-mm-2-kg": {
+    "path": "3/aqua-ljunak-re-ni-2-3-mm-2-kg.webp",
+    "sheet": "variable"
+  },
+  "aqua-ljunak-re-ni-2-3-mm-5-kg": {
+    "path": "3/aqua-ljunak-re-ni-2-3-mm-5-kg.webp",
     "sheet": "variable"
   },
   "aqua-ljunak-re-ni-3-4-mm-2-kg": {
