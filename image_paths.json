@@ -1,4 +1,8 @@
 {
+  "#VALUE!": {
+    "path": "3/#VALUE!.webp",
+    "sheet": "simple"
+  },
   "acanthurus-lineatus": {
     "path": "1/acanthurus-lineatus.webp",
     "sheet": "simple"
@@ -6323,10 +6327,6 @@
     "path": "2/melanotaenia-praecox.webp",
     "sheet": "simple"
   },
-  "micranthemum-umbrosum": {
-    "path": "3/micranthemum-umbrosum.webp",
-    "sheet": "simple"
-  },
   "microdevario-kubotai": {
     "path": "2/microdevario-kubotai.webp",
     "sheet": "simple"
@@ -6733,6 +6733,10 @@
   },
   "ocean-nutrition-algae-wafers": {
     "path": "3/ocean-nutrition-algae-wafers.webp",
+    "sheet": "simple"
+  },
+  "ocean-nutrition-aqua-yums-bloodworms": {
+    "path": "3/ocean-nutrition-aqua-yums-bloodworms.webp",
     "sheet": "simple"
   },
   "ocean-nutrition-artemia-brine-shrimp": {
@@ -7781,6 +7785,10 @@
   },
   "rotala-vietnam-hra": {
     "path": "2/rotala-vietnam-hra.webp",
+    "sheet": "simple"
+  },
+  "rotala-wallichii": {
+    "path": "3/rotala-wallichii.webp",
     "sheet": "simple"
   },
   "sagittaria-subulata": {
