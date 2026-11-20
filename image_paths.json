@@ -1,7 +1,7 @@
 {
   "#VALUE!": {
     "path": "3/#VALUE!.webp",
-    "sheet": "simple"
+    "sheet": "variable"
   },
   "acanthurus-lineatus": {
     "path": "1/acanthurus-lineatus.webp",
@@ -123,8 +123,8 @@
     "path": "1/albino-kribenzis.webp",
     "sheet": "simple"
   },
-  "alternanthera-reineckii": {
-    "path": "1/alternanthera-reineckii.webp",
+  "alternanthera-reinecki": {
+    "path": "3/alternanthera-reinecki.webp",
     "sheet": "simple"
   },
   "alternanthera-reineckii-mini": {
@@ -2151,10 +2151,6 @@
     "path": "3/atman-cf-cf-1200.webp",
     "sheet": "variable"
   },
-  "atman-cf-cf-800": {
-    "path": "3/atman-cf-cf-800.webp",
-    "sheet": "variable"
-  },
   "atman-ch-ch-100-w": {
     "path": "3/atman-ch-ch-100-w.webp",
     "sheet": "variable"
@@ -2393,6 +2389,14 @@
   },
   "bacopa-caroliniana": {
     "path": "3/bacopa-caroliniana.webp",
+    "sheet": "simple"
+  },
+  "bacopa-lanigera": {
+    "path": "3/bacopa-lanigera.webp",
+    "sheet": "simple"
+  },
+  "bacopa-monnieri": {
+    "path": "3/bacopa-monnieri.webp",
     "sheet": "simple"
   },
   "balantiochelios-melanopterus": {
@@ -3879,6 +3883,10 @@
     "path": "1/echidna-nebulosa.webp",
     "sheet": "simple"
   },
+  "echinodorus-janii": {
+    "path": "3/echinodorus-janii.webp",
+    "sheet": "simple"
+  },
   "echinodorus-osiris": {
     "path": "2/echinodorus-osiris.webp",
     "sheet": "simple"
@@ -4863,6 +4871,10 @@
     "path": "1/gymnocorymbus-ternetzi.webp",
     "sheet": "simple"
   },
+  "hedyotis-salzmannii": {
+    "path": "3/hedyotis-salzmannii.webp",
+    "sheet": "simple"
+  },
   "helanthium-quadricostatus": {
     "path": "3/helanthium-quadricostatus.webp",
     "sheet": "simple"
@@ -4877,6 +4889,10 @@
   },
   "hemianthus-callitrichoides": {
     "path": "3/hemianthus-callitrichoides.webp",
+    "sheet": "simple"
+  },
+  "hemianthus-micranthemoides": {
+    "path": "3/hemianthus-micranthemoides.webp",
     "sheet": "simple"
   },
   "hemichromis-lifalili": {
@@ -4937,7 +4953,7 @@
   },
   "hygrophilia-sallicifolia": {
     "path": "1/hygrophilia-sallicifolia.webp",
-    "sheet": null
+    "sheet": "simple"
   },
   "hypancistrus-l134": {
     "path": "3/hypancistrus-l134.webp",
@@ -5134,6 +5150,10 @@
   "jebao-sow-sow-8": {
     "path": "1/jebao-sow-sow-8.webp",
     "sheet": "variable"
+  },
+  "justicia-gendarussa": {
+    "path": "3/justicia-gendarussa.webp",
+    "sheet": "simple"
   },
   "juwel-akvarijum-rio-290-bela": {
     "path": "1/juwel-akvarijum-rio-290-bela.webp",
@@ -5867,10 +5887,6 @@
     "path": "2/juwel-rio-450-svetlo-drvo.webp",
     "sheet": "variable"
   },
-  "juwel-smart-feed-2-0": {
-    "path": "2/juwel-smart-feed-2-0.webp",
-    "sheet": "simple"
-  },
   "juwel-smartcam": {
     "path": "2/juwel-smartcam.webp",
     "sheet": "simple"
@@ -6003,6 +6019,10 @@
     "path": "2/labidochromis-hongi.webp",
     "sheet": "simple"
   },
+  "lilaeopsis-brasiliensis": {
+    "path": "3/lilaeopsis-brasiliensis.webp",
+    "sheet": "simple"
+  },
   "limnobium-laevigatum": {
     "path": "3/limnobium-laevigatum.webp",
     "sheet": "simple"
@@ -6059,6 +6079,10 @@
     "path": "3/lobelia-cardinalis.webp",
     "sheet": "simple"
   },
+  "lobelia-sp-mini": {
+    "path": "3/lobelia-sp-mini.webp",
+    "sheet": "simple"
+  },
   "loricaria-red": {
     "path": "2/loricaria-red.webp",
     "sheet": "simple"
@@ -6077,6 +6101,14 @@
   },
   "ludwigia-repens-rubin": {
     "path": "2/ludwigia-repens-rubin.webp",
+    "sheet": "simple"
+  },
+  "lysimachia-nummularia": {
+    "path": "3/lysimachia-nummularia.webp",
+    "sheet": "simple"
+  },
+  "lysimachia-nummularia-aurea": {
+    "path": "3/lysimachia-nummularia-aurea.webp",
     "sheet": "simple"
   },
   "magfloat-long": {
@@ -6347,6 +6379,10 @@
     "path": "2/melanotaenia-praecox.webp",
     "sheet": "simple"
   },
+  "micranthemum-umbrosum": {
+    "path": "3/micranthemum-umbrosum.webp",
+    "sheet": "simple"
+  },
   "microdevario-kubotai": {
     "path": "2/microdevario-kubotai.webp",
     "sheet": "simple"
@@ -6433,6 +6469,10 @@
   },
   "myaqua1900": {
     "path": "2/myaqua1900.webp",
+    "sheet": "simple"
+  },
+  "myriophyllum-aquaticum": {
+    "path": "3/myriophyllum-aquaticum.webp",
     "sheet": "simple"
   },
   "myriophyllum-brasiliensis": {
@@ -6542,6 +6582,14 @@
   "neritina-pulligera": {
     "path": "2/neritina-pulligera.webp",
     "sheet": null
+  },
+  "nomaphila-stricta": {
+    "path": "3/nomaphila-stricta.webp",
+    "sheet": "simple"
+  },
+  "nomaphila-stricta-compact": {
+    "path": "3/nomaphila-stricta-compact.webp",
+    "sheet": "simple"
   },
   "novolux-day": {
     "path": "2/novolux-day.webp",
