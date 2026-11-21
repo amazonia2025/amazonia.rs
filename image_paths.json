@@ -323,8 +323,8 @@
     "path": "1/amphiprion-percula.webp",
     "sheet": "simple"
   },
-  "amphiprion-polymnus": {
-    "path": "3/amphiprion-polymnus.webp",
+  "amphiprion-polymnus-black-white": {
+    "path": "3/amphiprion-polymnus-black-white.webp",
     "sheet": "simple"
   },
   "ancistrus-albino": {
@@ -10919,8 +10919,8 @@
     "path": "3/zamak-dekoracija-za-akvarijum.webp",
     "sheet": null
   },
-  "zebrasoma-flavescens": {
-    "path": "2/zebrasoma-flavescens.webp",
+  "zebrasoma-flavescens-yellow-tang": {
+    "path": "3/zebrasoma-flavescens-yellow-tang.webp",
     "sheet": "simple"
   },
   "zebrasoma-gemmatum": {
