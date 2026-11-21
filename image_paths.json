@@ -323,6 +323,10 @@
     "path": "1/amphiprion-percula.webp",
     "sheet": "simple"
   },
+  "amphiprion-polymnus": {
+    "path": "3/amphiprion-polymnus.webp",
+    "sheet": "simple"
+  },
   "ancistrus-albino": {
     "path": "1/ancistrus-albino.webp",
     "sheet": "simple"
@@ -3004,7 +3008,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "3/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -7097,10 +7101,6 @@
   },
   "pomacanthus-imperator": {
     "path": "2/pomacanthus-imperator.webp",
-    "sheet": null
-  },
-  "pomacanthus-imperator-juv": {
-    "path": "3/pomacanthus-imperator-juv.webp",
     "sheet": "simple"
   },
   "pontec-multiclear-uv-5000": {
@@ -10919,6 +10919,10 @@
     "path": "3/zamak-dekoracija-za-akvarijum.webp",
     "sheet": null
   },
+  "zebrasoma-flavescens": {
+    "path": "2/zebrasoma-flavescens.webp",
+    "sheet": "simple"
+  },
   "zebrasoma-gemmatum": {
     "path": "3/zebrasoma-gemmatum.webp",
     "sheet": "simple"
@@ -10926,10 +10930,6 @@
   "zebrasoma-scopas": {
     "path": "3/zebrasoma-scopas.webp",
     "sheet": null
-  },
-  "zebrasoma-scopas-l": {
-    "path": "3/zebrasoma-scopas-l.webp",
-    "sheet": "simple"
   },
   "zebrasoma-scopas-m": {
     "path": "3/zebrasoma-scopas-m.webp",
