@@ -1,8 +1,4 @@
 {
-  "#VALUE!": {
-    "path": "3/#VALUE!.webp",
-    "sheet": "variable"
-  },
   "acanthurus-lineatus": {
     "path": "1/acanthurus-lineatus.webp",
     "sheet": "simple"
@@ -1279,26 +1275,6 @@
     "path": "3/arka-bio-co2-473-ml.webp",
     "sheet": "variable"
   },
-  "arka-biogran-1000-ml": {
-    "path": "1/arka-biogran-1000-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-biogran-250-ml": {
-    "path": "1/arka-biogran-250-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-biogran-500-ml": {
-    "path": "1/arka-biogran-500-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-biogran-nano-250-ml": {
-    "path": "1/arka-biogran-nano-250-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-biogran-nano-500-ml": {
-    "path": "1/arka-biogran-nano-500-ml.webp",
-    "sheet": "variable"
-  },
   "arka-carbopure-243-g": {
     "path": "1/arka-carbopure-243-g.webp",
     "sheet": "variable"
@@ -1441,26 +1417,6 @@
   },
   "arka-kh-booster-500-g": {
     "path": "1/arka-kh-booster-500-g.webp",
-    "sheet": "variable"
-  },
-  "arka-marine-flakes-1000-ml": {
-    "path": "1/arka-marine-flakes-1000-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-marine-flakes-250-ml": {
-    "path": "1/arka-marine-flakes-250-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-marine-flakes-500-ml": {
-    "path": "1/arka-marine-flakes-500-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-marine-gran-250-ml": {
-    "path": "1/arka-marine-gran-250-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-marine-gran-500-ml": {
-    "path": "1/arka-marine-gran-500-ml.webp",
     "sheet": "variable"
   },
   "arka-myaqua-1900": {
@@ -1875,30 +1831,6 @@
     "path": "1/arka-therap-473-ml.webp",
     "sheet": "variable"
   },
-  "arka-vita-flakes-1000-ml": {
-    "path": "1/arka-vita-flakes-1000-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-vita-flakes-250-ml": {
-    "path": "1/arka-vita-flakes-250-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-vita-flakes-500-ml": {
-    "path": "1/arka-vita-flakes-500-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-vita-gran-250-ml": {
-    "path": "1/arka-vita-gran-250-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-vita-gran-500-ml": {
-    "path": "1/arka-vita-gran-500-ml.webp",
-    "sheet": "variable"
-  },
-  "arka-vita-pleco-6-mm-250-ml": {
-    "path": "1/arka-vita-pleco-6-mm-250-ml.webp",
-    "sheet": "simple"
-  },
   "arka-vitamins-freshwater-118-ml": {
     "path": "1/arka-vitamins-freshwater-118-ml.webp",
     "sheet": "variable"
@@ -2153,6 +2085,10 @@
   },
   "atman-cf-cf-1200": {
     "path": "3/atman-cf-cf-1200.webp",
+    "sheet": "variable"
+  },
+  "atman-cf-cf-800": {
+    "path": "2/atman-cf-cf-800.webp",
     "sheet": "variable"
   },
   "atman-ch-ch-100-w": {
@@ -3008,7 +2944,7 @@
     "sheet": "simple"
   },
   "co2art-co2-drop-checker-solution-15ml": {
-    "path": "2/co2art-co2-drop-checker-solution-15ml.webp",
+    "path": "3/co2art-co2-drop-checker-solution-15ml.webp",
     "sheet": "simple"
   },
   "co2art-co2-hose-black-3m": {
@@ -5893,6 +5829,10 @@
   },
   "juwel-smartcam": {
     "path": "2/juwel-smartcam.webp",
+    "sheet": "simple"
+  },
+  "juwel-smartfeed-2-0-automatska-hranilica": {
+    "path": "3/juwel-smartfeed-2-0-automatska-hranilica.webp",
     "sheet": "simple"
   },
   "juwel-trigon-190-bela": {
@@ -9763,6 +9703,14 @@
     "path": "2/stiphodon-sp-blue-neon.webp",
     "sheet": "simple"
   },
+  "strugac-algi-sa-ziletom-dvodelni": {
+    "path": "3/strugac-algi-sa-ziletom-dvodelni.webp",
+    "sheet": "variable"
+  },
+  "strugac-algi-sa-ziletom-trodelni": {
+    "path": "3/strugac-algi-sa-ziletom-trodelni.webp",
+    "sheet": "variable"
+  },
   "sturisoma-sp": {
     "path": "2/sturisoma-sp.webp",
     "sheet": "simple"
@@ -10869,6 +10817,98 @@
   },
   "vre-ice-za-filter-materijal-500-ml": {
     "path": "3/vre-ice-za-filter-materijal-500-ml.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-l-serija-double-stand-l600pro-d2": {
+    "path": "3/week-aqua-l-serija-double-stand-l600pro-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-l-serija-double-stand-l900pro-d2": {
+    "path": "3/week-aqua-l-serija-double-stand-l900pro-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-l-serija-l1200pro-k": {
+    "path": "3/week-aqua-l-serija-l1200pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-l-serija-l600pro-k": {
+    "path": "3/week-aqua-l-serija-l600pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-l-serija-l900pro-k": {
+    "path": "3/week-aqua-l-serija-l900pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-double-stand-m1200pro-d2": {
+    "path": "3/week-aqua-m-serija-double-stand-m1200pro-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-double-stand-m600pro-d2": {
+    "path": "3/week-aqua-m-serija-double-stand-m600pro-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-double-stand-m800pro-d2": {
+    "path": "3/week-aqua-m-serija-double-stand-m800pro-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-double-stand-m900pro-d2": {
+    "path": "3/week-aqua-m-serija-double-stand-m900pro-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-m1200pro-k": {
+    "path": "3/week-aqua-m-serija-m1200pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-m450pro-k": {
+    "path": "3/week-aqua-m-serija-m450pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-m600pro-k": {
+    "path": "3/week-aqua-m-serija-m600pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-m800pro-k": {
+    "path": "3/week-aqua-m-serija-m800pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-m-serija-m900pro-k": {
+    "path": "3/week-aqua-m-serija-m900pro-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-mag-pro": {
+    "path": "3/week-aqua-mag-pro.webp",
+    "sheet": "simple"
+  },
+  "week-aqua-v-serija-pedant-stil-v1200se-d2": {
+    "path": "3/week-aqua-v-serija-pedant-stil-v1200se-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-pedant-stil-v600se-d2": {
+    "path": "3/week-aqua-v-serija-pedant-stil-v600se-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-pedant-stil-v900se-d2": {
+    "path": "3/week-aqua-v-serija-pedant-stil-v900se-d2.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-v1200se-k": {
+    "path": "3/week-aqua-v-serija-v1200se-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-v300se-k": {
+    "path": "3/week-aqua-v-serija-v300se-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-v450se-k": {
+    "path": "3/week-aqua-v-serija-v450se-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-v600se-k": {
+    "path": "3/week-aqua-v-serija-v600se-k.webp",
+    "sheet": "variable"
+  },
+  "week-aqua-v-serija-v900se-k": {
+    "path": "3/week-aqua-v-serija-v900se-k.webp",
     "sheet": "variable"
   },
   "white-diamond-diskus": {
